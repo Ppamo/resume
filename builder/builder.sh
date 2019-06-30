@@ -1,8 +1,7 @@
 #!/bin/bash
 
 APP=pdfbuilder
-VERSION=0.1.1
-VOLUMES="--volume ${PWD#/cygdrive}:/data"
+VERSION=0.1.3
 
 TEMP=.tmp
 if [ "$COLOR" != "false" ]
@@ -16,7 +15,8 @@ fi
 
 IMAGENAME=ppamo.$APP
 IMAGE=$IMAGENAME:$VERSION
-BASEPATH=${PWD#/cygdrive}
+BASEPATH=${PWD#/cygdrive}/$(dirname $0)/..
+VOLUMES="--volume $BASEPATH:/data"
 DMName=default
 
 run(){
@@ -35,7 +35,7 @@ build(){
 	if [ $? -ne 0 ]
 	then
 		# create the docker image
-		docker build -t $IMAGE docker/
+		docker build -t $IMAGE builder/docker/
 		if [ $? -ne 0 ]
 		then
 			printf -- $RED"- ERROR:
@@ -64,7 +64,7 @@ payload(){
 		DM=$?
 	fi
 
-	chcon -Rt svirt_sandbox_file_t $PWD > /dev/null 2>&1
+	chcon -Rt svirt_sandbox_file_t $BASEPATH > /dev/null 2>&1
 	printf -- $GREEN"- Done!\n"$RESET
 }
 
@@ -103,7 +103,7 @@ Is the docker daemon running and environment configured in this host?\n"$RESET
 		exit -1
 	fi
 	# check if the Dockerfile is in the folder
-	if [ ! -f docker/Dockerfile ]
+	if [ ! -f builder/docker/Dockerfile ]
 	then
 		printf -- $RED"- Dockerfile is not present, please run the script from right folder\n"$RESET
 		exit -1

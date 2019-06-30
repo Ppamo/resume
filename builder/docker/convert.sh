@@ -1,6 +1,20 @@
 #!/bin/bash
 TEMP=.tmp
 
+setup(){
+	printf "\n* Running setup tasks\n"
+	printf -- "- Installing fonts ."
+	mkdir -p /usr/share/fonts/ttf
+	find resources/fonts/ -iname *.ttf -exec cp {} /usr/share/fonts/ttf \;
+	if [ $? -eq 0 ]
+	then
+		printf ". OK\n"
+	else
+		printf ". NOK\n"
+		exit -1
+	fi
+}
+
 generate_pdf_pages(){
 	printf "\n* Generating PDF from $*\n"
 	rm -Rf $TEMP
@@ -38,10 +52,12 @@ join_pdf_pages(){
 	rm -Rf $TEMP
 }
 
-generate_pdf_pages en/*
-join_pdf_pages Pablo.Mansilla.Ojeda.cv.en.pdf
+setup
 
-generate_pdf_pages es/*
+# generate_pdf_pages en/*
+# join_pdf_pages Pablo.Mansilla.Ojeda.cv.en.pdf
+
+generate_pdf_pages pages/es/*
 join_pdf_pages Pablo.Mansilla.Ojeda.cv.es.pdf
 
 echo

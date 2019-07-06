@@ -54,8 +54,8 @@ join_pdf_pages(){
 
 setup
 
-# generate_pdf_pages en/*
-# join_pdf_pages Pablo.Mansilla.Ojeda.cv.en.pdf
+generate_pdf_pages pages/en/*
+join_pdf_pages Pablo.Mansilla.Ojeda.cv.en.pdf
 
 generate_pdf_pages pages/es/*
 join_pdf_pages Pablo.Mansilla.Ojeda.cv.es.pdf

@@ -81,8 +81,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="395.86503"
-     inkscape:cy="737.15073"
+     inkscape:cx="576.12688"
+     inkscape:cy="865.74163"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,7 +91,7 @@
      inkscape:window-x="1912"
      inkscape:window-y="303"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -190,7 +190,8 @@
            y="201.15955"
            style="font-size:16px" /></flowRegion><flowPara
          id="flowPara3994" /></flowRoot>    <g
-       id="g6241">
+       id="g6241"
+       transform="translate(0,-1.0583333)">
       <g
          transform="translate(-1.3237548,-5.5562453)"
          id="g980">
@@ -523,7 +524,7 @@
            style="font-size:12px;word-spacing:1px">Santiago de Chile</flowPara></flowRoot>    </g>
     <g
        id="g3219"
-       transform="translate(71.202186,-46.40548)">
+       transform="translate(71.202186,-46.031302)">
       <image
          width="6"
          height="6"
@@ -575,7 +576,7 @@
            style="font-size:12px;word-spacing:1.5px">pablo@ppamo.cl</flowPara></flowRoot>    </g>
     <g
        id="g3247"
-       transform="translate(115.38761,-19.750249)">
+       transform="translate(115.38761,-19.376071)">
       <image
          width="6"
          height="6"
@@ -627,7 +628,7 @@
            style="font-size:12px;word-spacing:1.5px">github.com/Ppamo</flowPara></flowRoot>    </g>
     <g
        id="g3233"
-       transform="translate(156.66262,-33.520405)">
+       transform="translate(156.66262,-33.146227)">
       <image
          width="6"
          height="6"
@@ -946,8 +947,8 @@
            height="121"
            x="937.25"
            y="42.98819" /></flowRegion><flowPara
-         id="flowPara3763"></flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.023309,18.163119)"
+         id="flowPara3763" /></flowRoot>    <flowRoot
+       transform="matrix(0.26185495,0,0,0.26185495,42.023309,17.104787)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-5-4-4-7-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -964,17 +965,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,58.947374 h 18.18051"
+       d="m 116.32495,57.889042 h 18.18051"
        id="path1722-4-4-4-4"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-8-2-1"
        cx="133.23415"
-       cy="58.946171"
+       cy="57.887836"
        r="0.46510333" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.137609,21.57119)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.137609,20.512858)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-0-0-5-3-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -991,17 +992,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,62.373412 h 18.18051"
+       d="m 116.32495,61.31508 h 18.18051"
        id="path1722-7-4-2-1"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-5-3-4-9"
        cx="132.1759"
-       cy="62.372768"
+       cy="61.314434"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.632909,24.997777)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.632909,23.939445)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-0-7-1-9-2-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1016,17 +1017,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9">agile</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,65.740798 h 18.18051"
+       d="m 116.32495,64.682466 h 18.18051"
        id="path1722-5-0-3-6"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-9-6-2-1"
        cx="132.70506"
-       cy="65.743271"
+       cy="64.684952"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.369147,28.368276)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.369147,27.309944)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-8-3-8-6-6-7"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1043,17 +1044,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,69.119582 h 18.18051"
+       d="m 116.32495,68.06125 h 18.18051"
        id="path1722-87-5-0"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-0-3-8-4"
        cx="127.94255"
-       cy="69.112991"
+       cy="68.054672"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.156659,31.633226)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.156659,30.574894)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-1-3-4-0-7-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1070,17 +1071,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,72.355236 h 18.18051"
+       d="m 116.32495,71.296904 h 18.18051"
        id="path1722-46-4-5-5"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-3-67-7-4"
        cx="130.24631"
-       cy="72.353088"
+       cy="71.294769"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.023309,34.739979)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.023309,33.681647)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-02-1-0-9-1-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1097,17 +1098,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,75.463796 h 18.18051"
+       d="m 116.32495,74.405464 h 18.18051"
        id="path1722-9-3-1-9"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-7-9-8"
        cx="129.53003"
-       cy="75.461578"
+       cy="74.403259"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.201109,38.086579)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.201109,37.028247)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-48-7-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1124,17 +1125,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,78.79175 h 18.18051"
+       d="m 116.32495,77.733418 h 18.18051"
        id="path1722-9-2-1-8-7"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-1-6-3"
        cx="130.05919"
-       cy="78.79174"
+       cy="77.733421"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.201109,44.807745)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.201109,43.749413)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-4-4-6-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1151,17 +1152,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,85.512918 h 18.18051"
+       d="m 116.32495,84.454586 h 18.18051"
        id="path1722-9-2-3-1-1-1"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-9-3-2-3"
        cx="131.64674"
-       cy="85.512917"
+       cy="84.454597"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.023309,47.780266)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.023309,46.721934)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-8-10-1-7"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1178,17 +1179,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,88.535994 h 18.18051"
+       d="m 116.32495,87.477662 h 18.18051"
        id="path1722-8-7-6-9-4"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-7-9-0-9"
        cx="130.0592"
-       cy="88.533508"
+       cy="87.475189"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,42.023309,41.429519)"
+       transform="matrix(0.26185495,0,0,0.26185495,42.023309,40.371187)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-73-5-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1203,14 +1204,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9">node js</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 116.32495,82.185243 h 18.18051"
+       d="m 116.32495,81.126911 h 18.18051"
        id="path1722-8-5-3-4"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-3-0-2"
        cx="131.14967"
-       cy="82.182739"
+       cy="81.12442"
        r="0.46510339" />
     <rect
        style="fill:#000000;stroke-width:0.04227747"
@@ -1218,9 +1219,9 @@
        width="13.882597"
        height="4.1581011"
        x="118.37797"
-       y="51.2397" />
+       y="50.181366" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,45.042335,13.879287)"
+       transform="matrix(0.26185495,0,0,0.26185495,45.042335,12.820955)"
        xml:space="preserve"
        id="flowRoot10-9-7-4-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1237,7 +1238,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara26-1-7-9-8" /></flowRoot>    <g
        id="g6418"
-       transform="translate(54.664681)">
+       transform="translate(54.664681,-1.0583333)">
       <rect
          y="51.2397"
          x="85.633263"
@@ -1263,7 +1264,7 @@
            id="flowPara26-1-7-9"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.497859,18.136666)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.497859,17.078334)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-5-4-4-7-0-98"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1280,17 +1281,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-6" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,58.920923 h 18.18051"
+       d="m 140.65345,57.862591 h 18.18051"
        id="path1722-4-4-4-4-7"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-8-2-1-7"
        cx="153.85855"
-       cy="58.919724"
+       cy="57.861389"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.466109,21.544738)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.466109,20.486406)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-0-0-5-3-9-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1307,17 +1308,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-90" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,62.346961 h 18.18051"
+       d="m 140.65345,61.288629 h 18.18051"
        id="path1722-7-4-2-1-3"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-5-3-4-9-7"
        cx="151.74191"
-       cy="62.346325"
+       cy="61.287991"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.485159,24.971325)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.485159,23.912993)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-0-7-1-9-2-0-7"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1332,17 +1333,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-79">javascript</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,65.714347 h 18.18051"
+       d="m 140.65345,64.656015 h 18.18051"
        id="path1722-5-0-3-6-9"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-9-6-2-1-41"
        cx="154.91687"
-       cy="65.716827"
+       cy="64.658508"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.510554,28.341825)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.510554,27.283493)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-8-3-8-6-6-7-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1359,17 +1360,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-1" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,69.093131 h 18.18051"
+       d="m 140.65345,68.034799 h 18.18051"
        id="path1722-87-5-0-1"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-0-3-8-4-4"
        cx="154.38771"
-       cy="69.086548"
+       cy="68.028229"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.383559,31.606774)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.383559,30.548442)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-1-3-4-0-7-5-7"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1386,17 +1387,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-12" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,72.328785 h 18.18051"
+       d="m 140.65345,71.270453 h 18.18051"
        id="path1722-46-4-5-5-3"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-3-67-7-4-46"
        cx="144.33353"
-       cy="72.326645"
+       cy="71.268326"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.351809,34.713527)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.351809,33.655195)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-02-1-0-9-1-3-2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1413,17 +1414,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-7" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,75.437345 h 18.18051"
+       d="m 140.65345,74.379013 h 18.18051"
        id="path1722-9-3-1-9-88"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-7-9-8-8"
        cx="145.39185"
-       cy="75.435135"
+       cy="74.376816"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.351809,38.060127)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.351809,37.001795)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-48-7-9-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1440,17 +1441,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-3" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,78.765299 h 18.18051"
+       d="m 140.65345,77.706967 h 18.18051"
        id="path1722-9-2-1-8-7-1"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-1-6-3-9"
        cx="142.74605"
-       cy="78.765297"
+       cy="77.706978"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.462934,44.781293)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.462934,43.722961)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-4-4-6-1-7"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1465,17 +1466,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-0">vue.js</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,85.486462 h 18.18051"
+       d="m 140.65345,84.42813 h 18.18051"
        id="path1722-9-2-3-1-1-1-4"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-9-3-2-3-0"
        cx="142.74605"
-       cy="85.486473"
+       cy="84.428154"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.466109,47.753814)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.466109,46.695482)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-8-10-1-7-2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1492,17 +1493,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-8" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,88.509536 h 18.18051"
+       d="m 140.65345,87.451204 h 18.18051"
        id="path1722-8-7-6-9-4-4"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-7-9-0-9-5"
        cx="150.68352"
-       cy="88.507072"
+       cy="87.448753"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,66.351809,41.403067)"
+       transform="matrix(0.26185495,0,0,0.26185495,66.351809,40.344735)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-73-5-0-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1517,18 +1518,18 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-7">react</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.65345,82.158795 h 18.18051"
+       d="m 140.65345,81.100463 h 18.18051"
        id="path1722-8-5-3-4-6"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-3-0-2-15"
        cx="142.74605"
-       cy="82.156288"
+       cy="81.097969"
        r="0.46510339" />
     <g
        id="g6434"
-       transform="translate(33.610228)">
+       transform="translate(33.610228,-1.0583333)">
       <rect
          y="51.2397"
          x="131.8472"
@@ -1554,7 +1555,7 @@
            id="flowPara26-1-7-9-5"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.576661,18.163112)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.576661,17.10478)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-5-4-4-7-0-7"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1569,17 +1570,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-7">mysql</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.8783,58.947367 h 18.18051"
+       d="m 164.8783,57.889035 h 18.18051"
        id="path1722-4-4-4-4-8"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-8-2-1-8"
        cx="177.55415"
-       cy="58.946163"
+       cy="57.887829"
        r="0.46510333" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.544919,21.571183)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.544919,20.512851)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-0-0-5-3-9-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1596,17 +1597,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-8" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.73226,62.373405 h 18.18051"
+       d="m 164.73226,61.315073 h 18.18051"
        id="path1722-7-4-2-1-6"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-5-3-4-9-0"
        cx="179.5249"
-       cy="62.372761"
+       cy="61.314426"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,91.040219,24.99777)"
+       transform="matrix(0.26185495,0,0,0.26185495,91.040219,23.939438)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-0-7-1-9-2-0-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1621,17 +1622,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-6">mssql</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.73226,65.740791 h 18.18051"
+       d="m 164.73226,64.682459 h 18.18051"
        id="path1722-5-0-3-6-2"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-9-6-2-1-6"
        cx="175.82071"
-       cy="65.743263"
+       cy="64.684944"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.694368,28.368269)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.694368,27.309937)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-8-3-8-6-6-7-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1648,17 +1649,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-9" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.99602,69.119575 h 18.18051"
+       d="m 164.99602,68.061243 h 18.18051"
        id="path1722-87-5-0-8"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-0-3-8-4-3"
        cx="177.67194"
-       cy="69.112984"
+       cy="68.054665"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.563969,31.633219)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.563969,30.574887)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-1-3-4-0-7-5-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1673,17 +1674,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-8">redis</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.73226,72.355229 h 18.18051"
+       d="m 164.73226,71.296897 h 18.18051"
        id="path1722-46-4-5-5-4"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-3-67-7-4-2"
        cx="178.65363"
-       cy="72.353081"
+       cy="71.294762"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.430619,34.739972)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.430619,33.68164)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-02-1-0-9-1-3-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1698,17 +1699,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-6">rabbit mq</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.73226,75.463789 h 18.18051"
+       d="m 164.73226,74.405457 h 18.18051"
        id="path1722-9-3-1-9-4"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-7-9-8-81"
        cx="177.93735"
-       cy="75.461571"
+       cy="74.403252"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.608419,38.086572)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.608419,37.02824)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-48-7-9-6"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1723,17 +1724,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-0">maven</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.73226,78.791743 h 18.18051"
+       d="m 164.73226,77.733411 h 18.18051"
        id="path1722-9-2-1-8-7-8"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-1-6-3-4"
        cx="175.82071"
-       cy="78.791733"
+       cy="77.733414"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.608419,44.807738)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.608419,43.749406)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-4-4-6-1-2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1748,17 +1749,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-4">json</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.73226,85.512911 h 18.18051"
+       d="m 164.73226,84.454579 h 18.18051"
        id="path1722-9-2-3-1-1-1-5"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-9-3-2-3-8"
        cx="181.11238"
-       cy="85.512909"
+       cy="84.45459"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.544911,47.780259)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.544911,46.721927)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-8-10-1-7-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1773,17 +1774,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-4">xml</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.84655,88.535987 h 18.18051"
+       d="m 164.84655,87.477655 h 18.18051"
        id="path1722-8-7-6-9-4-7"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-7-9-0-9-7"
        cx="180.16829"
-       cy="88.533501"
+       cy="87.475182"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,90.430619,41.429512)"
+       transform="matrix(0.26185495,0,0,0.26185495,90.430619,40.37118)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-73-5-0-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1798,18 +1799,18 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-74">restful</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 164.73226,82.185236 h 18.18051"
+       d="m 164.73226,81.126904 h 18.18051"
        id="path1722-8-5-3-4-5"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-3-0-2-1"
        cx="179.02783"
-       cy="82.182732"
+       cy="81.124413"
        r="0.46510339" />
     <g
        id="g6442"
-       transform="translate(35.85752)">
+       transform="translate(35.85752,-1.0583333)">
       <rect
          y="51.2397"
          x="154.95418"
@@ -1835,7 +1836,7 @@
            id="flowPara26-1-7-9-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,18.163111)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,17.104779)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-5-4-4-7-0-7-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1850,17 +1851,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-7-1">docker</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,58.947368 h 18.18051"
+       d="m 188.82084,57.889036 h 18.18051"
        id="path1722-4-4-4-4-8-8"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-8-2-1-8-3"
        cx="206.25928"
-       cy="58.946167"
+       cy="57.887833"
        r="0.46510336" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,21.571183)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,20.512851)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-0-0-5-3-9-8-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1875,17 +1876,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-8-1">swarm</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,62.373406 h 18.18051"
+       d="m 188.82084,61.315074 h 18.18051"
        id="path1722-7-4-2-1-6-9"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-5-3-4-9-0-6"
        cx="204.6718"
-       cy="62.372765"
+       cy="61.31443"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,24.99777)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,23.939438)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-0-7-1-9-2-0-3-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1900,17 +1901,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-6-7">kubernetes</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,65.740792 h 18.18051"
+       d="m 188.82084,64.68246 h 18.18051"
        id="path1722-5-0-3-6-2-5"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-9-6-2-1-6-7"
        cx="205.20096"
-       cy="65.743263"
+       cy="64.684944"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,28.368268)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,27.309936)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-8-3-8-6-6-7-0-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1925,17 +1926,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-9-6">api connect</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,69.119576 h 18.18051"
+       d="m 188.82084,68.061244 h 18.18051"
        id="path1722-87-5-0-8-9"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-0-3-8-4-3-0"
        cx="205.20096"
-       cy="69.112976"
+       cy="68.054657"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,31.633219)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,30.574887)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-1-3-4-0-7-5-3-2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1950,17 +1951,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-8-5">ibm cloud</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,72.35523 h 18.18051"
+       d="m 188.82084,71.296898 h 18.18051"
        id="path1722-46-4-5-5-4-8"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-3-67-7-4-2-3"
        cx="205.20096"
-       cy="72.353081"
+       cy="71.294762"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,34.739972)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,33.68164)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-0-9-4-02-1-0-9-1-3-5-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -1975,17 +1976,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-6-1">linux</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,75.46379 h 18.18051"
+       d="m 188.82084,74.405458 h 18.18051"
        id="path1722-9-3-1-9-4-3"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-7-9-8-81-9"
        cx="206.78844"
-       cy="75.461571"
+       cy="74.403252"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,38.086572)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,37.02824)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-48-7-9-6-6"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2000,17 +2001,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-0-7">microsoft</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,78.791744 h 18.18051"
+       d="m 188.82084,77.733412 h 18.18051"
        id="path1722-9-2-1-8-7-8-3"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-1-6-3-4-2"
        cx="200.96761"
-       cy="78.791733"
+       cy="77.733414"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,44.807738)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,43.749406)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-4-4-6-1-2-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2025,17 +2026,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-4-9">monitoring</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,85.512911 h 18.18051"
+       d="m 188.82084,84.454579 h 18.18051"
        id="path1722-9-2-3-1-1-1-5-1"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-9-3-2-3-8-3"
        cx="206.25928"
-       cy="85.512909"
+       cy="84.45459"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.70969,47.780259)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.70969,46.721927)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-8-10-1-7-0-2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2050,17 +2051,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-4-5">scripting</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,88.535988 h 18.18051"
+       d="m 188.82084,87.477656 h 18.18051"
        id="path1722-8-7-6-9-4-7-1"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-7-9-0-9-7-4"
        cx="206.78844"
-       cy="88.533501"
+       cy="87.475182"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,114.51919,41.429513)"
+       transform="matrix(0.26185495,0,0,0.26185495,114.51919,40.371181)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-73-5-0-5-4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2075,17 +2076,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-74-6">vmachine</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 188.82084,82.185237 h 18.18051"
+       d="m 188.82084,81.126905 h 18.18051"
        id="path1722-8-5-3-4-5-6"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-3-0-2-1-8"
        cx="205.73012"
-       cy="82.182732"
+       cy="81.124413"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,15.558979,18.17683)"
+       transform="matrix(0.26185495,0,0,0.26185495,15.558979,17.118498)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-5-4-4-7-0-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2100,17 +2101,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-3">español</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.86062,58.961085 h 18.18049"
+       d="m 89.86062,57.902753 h 18.18049"
        id="path1722-4-4-4-4-0"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-8-2-1-85"
        cx="107.59425"
-       cy="58.959881"
+       cy="57.901546"
        r="0.46510333" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,15.673279,21.584901)"
+       transform="matrix(0.26185495,0,0,0.26185495,15.673279,20.526569)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-0-0-5-3-9-4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2125,18 +2126,18 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-1">ingles</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.86062,62.387123 h 18.18049"
+       d="m 89.86062,61.328791 h 18.18049"
        id="path1722-7-4-2-1-5"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-5-3-4-9-04"
        cx="103.59492"
-       cy="62.386478"
+       cy="61.328144"
        r="0.46510336" />
     <g
        id="g13848"
-       transform="translate(-4.1718933)">
+       transform="translate(-4.1718933,-1.0583333)">
       <rect
          y="51.25341"
          x="95.617813"
@@ -2163,7 +2164,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>    </g>
     <g
        id="g14236"
-       transform="translate(1.2191528)">
+       transform="translate(1.2191528,-1.0583333)">
       <rect
          y="74.524887"
          x="91.414108"
@@ -2189,7 +2190,7 @@
            id="flowPara26-1-7-9-8-1-4"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,15.670095,44.797169)"
+       transform="matrix(0.26185495,0,0,0.26185495,15.670095,43.738837)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-9-2-1-2-7-0-1-5-4-4-6-1-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2206,17 +2207,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-3" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.86062,85.502343 h 18.18051"
+       d="m 89.86062,84.444011 h 18.18051"
        id="path1722-9-2-3-1-1-1-2"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-1-9-3-2-3-3"
        cx="106.7699"
-       cy="85.502403"
+       cy="84.444084"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,15.67327,47.769689)"
+       transform="matrix(0.26185495,0,0,0.26185495,15.67327,46.711357)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-8-10-1-7-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2233,17 +2234,17 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.86116219px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-2" /></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.86062,88.525419 h 18.18051"
+       d="m 89.86062,87.467087 h 18.18051"
        id="path1722-8-7-6-9-4-3"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-7-9-0-9-1"
        cx="102.53656"
-       cy="88.522995"
+       cy="87.464676"
        r="0.46510339" />
     <flowRoot
-       transform="matrix(0.26185495,0,0,0.26185495,15.55897,41.418942)"
+       transform="matrix(0.26185495,0,0,0.26185495,15.55897,40.36061)"
        xml:space="preserve"
        id="flowRoot10-9-7-5-2-6-5-2-1-1-3-8-7-4-73-5-0-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -2258,14 +2259,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.12503338px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.75781459px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-71">arduino</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.17099676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.86062,82.174668 h 18.18051"
+       d="m 89.86062,81.116336 h 18.18051"
        id="path1722-8-5-3-4-51"
        inkscape:connector-curvature="0" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.08;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2402-4-3-3-0-2-16"
        cx="106.24072"
-       cy="82.172226"
+       cy="81.113907"
        r="0.46510339" />
   </g>
 </svg>

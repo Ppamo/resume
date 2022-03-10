@@ -1,0 +1,277 @@
+# Resume
+
+## Information:
+- Name: Pablo Andrés Mansilla Ojeda
+- Academic Grade: Ingeniero de Software
+- University: Universidad Austral de Chile
+- Phone: +56982150949
+- Email: pablo@ppamo.cl
+- Location: Santiago, Chile
+- Web Site: https://www.ppamo.cl
+- Github: https://github.com/Ppamo
+- Linkedin: https://www.linkedin.com/in/ppamo/es
+
+## About me:
+
+I enjoy design and implementation of technological projects, especially over the Web, always generating user friendly and useful products and services
+
+## Education:
+
+- 2022 - Posgrade Diploma on Redteam - Universidad de Santiago de Chile
+  - Tags:
+    - Pentesting Web
+    - Ethical Hacking
+    - Reversing & Exploiting
+    - OSINT
+    - OCSP
+    - Cryptography
+    - Cloud Architecture
+- 2020 - Posgrade Diploma on Visual Arts - Universidad de Chile
+  - Tags:
+    - Art's History
+    - Contemporary Art
+    - Intermedial Arts
+    - Curatorial Practice
+- 2013 - Silicon Valley Immersion - Universidad de San Francisco
+  - Tags:
+    - Innovation
+    - Entrepreneurship
+    - Design Thinking
+- 2011 - Master in Technological Innovation and Entrepreneurship - Universidad Técnica Federico Santa María
+  - Tags:
+    - Innovation management
+    - Entrepreneurship
+    - Intrapreneurship
+    - Design of products and services
+    - Knowledge Management
+- 2010 - Information Technologies Projects Management - Universidad Técnica Federico Santa María
+  - Tags:
+    - PMBOK Model
+    - Project Management
+- 2009 - Posgrade Diploma, Experimental Photographical Creationship - Universidad de Chile
+  - Tags:
+    - Photography
+    - Art Theory
+    - Experimental Creation
+- 2007 - Bachelor of Software Engineering - Universidad Austral de Chile
+  - Tags:
+    - Software Design and Development
+    - Projects Management
+    - Research and Development
+
+
+## Experience:
+
+- **November 2017 - February 2022 - Software Engineer - IBM**
+  - Description:
+    - I participate in multiple software development projects, each executed for different clients.  All of it develped for the Cloud, and share a similar architecture, a Web or Mobile client, APIs in API Connect and Microservices orchrestated with Docker and Kubernetes.  I have not only developed software, but also managed servers and clusters, fine-tuned performances, calculated volumetry and integrated different services in customer dependencies.   I also designed and implemented development flows and tools for the team, using Gitlab, Jenkins and Bash
+  - Projects:
+    - November 2017 - February 2018 - Banco Itau
+      - Tasks
+        - Desarrollo de Microservicios escritos en Golang, Java y NodeJS y orquestados en Kubernetes
+        - Diseño e implementación del flujo de desarrollo, usando Gitlab
+        - Mantención y puesta a punto IBM Cloud Private sobre RHEL
+        - Diseño y documentación de especificaciones técnicas
+        - Desarrollo de herramientas para despliegue de los servicios en BASH
+        - Desarrollo de herramientas para el desarrollo
+        - Ejecución y documentación de pruebas de stress
+        - Integración con Urban Code
+        - Microservicios fundacionales
+        - Microservicios Geolocalizacion
+        - Diseño del flujo de desarrollo
+        - Desarrollo de herramientas para el desarrollo
+        - Instalación y configuración Gitlab
+        - Despliegue de los servicios a IBM Cloud Private
+    - December 2018 - February 2019 - Banco Estado
+      - Tasks:
+        - Modificación de imágenes docker para que se ejecuten correctamente en Kubernetes
+        - Creación de artefactos Kubernetes para ejecutar los servicios
+    - February 2019 - August 2019 - Banco de Chile
+      - Tasks:
+        - Desarrollo APIs en API Connect
+        - Desarrollo adaptadores Mobile First Platform
+        - Creación artefactos de Kubernetes
+        - Mock Server Node
+        - Adaptación de imágenes Docker
+        - Análisis de los Hackeos al Cluster ICP
+        - Adaptación de App Mobile - Ionic/Cordova
+    - October 2019 - Jun 2020 - Copec
+      - Tasks:
+        - Mantención aplicaciones ASP .Net (IIS / Microsoft SQL Server)
+        - Integración msbuild - bamboo
+        - Mantención Aplicaciones de escritorio .Net
+        - Decompilación y auditoría
+        - Análisis ciberataque servidor en la nube
+        - Administración SPSS
+    - July 2020 - February 2022 - Provida
+      - Tasks:
+        - Desarrollo de Microservicios en NodeJS y Golang
+        - Diseño e implementación del flujo de desarrollo usando Gitlab
+        - Diseño e implementación de pipelines de despliegue
+  - Tags:
+    - Git
+    - Gitlab
+    - Java
+    - Spring Boot
+    - Golang
+    - Node
+    - Javascript
+    - Docker
+    - Kubernetes
+    - IBM Cloud Private
+    - Mobile First Platform
+    - API
+    - Restful
+    - Maven
+    - Eclipse
+    - Linux
+    - Bash
+    - Red Hat Enterprise Linux
+    - JMeter
+    - Apache Bench
+    - Api Connect
+    - App mobile IONIC/Cordova
+    - RedHat OpenShift
+    - IBM Toolchains
+    - Cloudant
+    - CouchDB
+- **March 2015 - December 2016 - External Evaluator for Innovation Projects - Corporación de Desarrollo Tecnológico Bienes de Capital**
+  - Description:
+    - I evaluated proposals for technological projects submitted to multiple CORFO innovation contests, analyzing its technical, financial and commercial merit, to determine the viability and adherence to the contest's bases
+  - Tags:
+    - Evaluación de proyectos
+- **August 2013 - December 2016 - Software Engineer - Schibsted Chile SpA**
+  - Description:
+    - Schibsted is an Norwegian international media group.   In Chile, it runs the Yapo.cl online classified ads site.   I worked developing and integrating new features to the site and improving the internal software development flow.   The site core is written mainly in C and PHP, and which at the time was being migrated to a model of microservices written in Golang with a REST interface.   The team worked in interdiciplinary and auto-organizated groups using some artifacts and ceremonies from Scrum like the daily meeting, sprints, retrospective, etc.   We also used a Kanban to focus, visualize and comunicate the sprint advances.   We used a process to deliver to production environment that includes automated testing and manual revision in Develop and QA environments, and continuous integration using Jenkins integrated to Gitlab using Docker
+  - Tasks:
+    - Diseño y desarrollo de software
+    - Diseño, desarrollo e integración de API's
+    - Mantención de componentes de la plataforma
+    - Diseño y desarrollo e Integración de API's
+    - Integración con Jenkins CI
+    - Configuración de servidores
+  - Tags:
+    - API
+    - RESTful
+    - Linux
+    - Postgresql
+    - PHP
+    - Python
+    - Javascript
+    - Golang
+    - Redis
+    - RabbitMQ
+    - C
+    - Git
+    - Jenkins
+    - Selenium
+    - Github
+    - Continuous Integration
+    - Docker
+    - NodeJS
+    - MongoDB
+    - Scrum
+    - Kanban
+    - Transbank
+    - Leankit
+  - Projects:
+    - Mock Server
+    - Créditos en web
+    - Integración de la web con OneClickPayment
+    - Mensajería en web y aplicaciones
+    - Borradores para la web mobile
+    - Correr los tests en Jenkins dockerizados
+    - Actualiza el formulario de inserción de avisos en mobile
+    - Wrapper para aplicación Firefox de la Web
+    - Integración con Transbank
+    - Diseño de Circuito de Integración Continua y Ejecución de Tests
+    - Scoreboard
+- **May 2011 - October 2011 - Technical Leader - Idontek**
+  - Description:
+    - Co-founder of this Startup, where I designed and setup an electronic platform to generate and manage projects using Open Source tools like SugarCRM, Subversion and Redmine.   The core is written in .Net.   The Startup was part of the Microsoft's BizSpark program
+  - Tasks:
+    - Diseño de plataforma electrónica para la administración y generación de proyectos
+  - Tags:
+    - BizSpark
+    - Visual Studio .Net
+    - SugarCRM
+    - SVN
+    - Redmine
+  - Projects:
+    - Venta de maquinas de autoservicio
+    - Emprendimiento parte del programa BizSpark de Microsoft
+- **April 2010 - May 2013 - External Software Engineer - Bell Technologies S.A**
+  - Description:
+    - I worked as an External Engineer, developing software projects in different departments.   Most of the projects were developed using framework .Net, writing data providers used to connect the auto service machines from Belltech with the client's data sources.   I also worked with the Interactive Voice Response department, developing tools to store and convert data generated by the systems.   I also designed and implemented a Continuous Integration circuit using TFS, Teamcity, Redmine and Moodle
+  - Tasks:
+    - Diseño y desarrollo de software
+    - Gestión de proyectos
+    - Diseño, desarrollo e integración de API's
+    - Diseño e implementación de Integración Contínua
+- **April 2004 - April 2012 - Software Engineer - Mercatus Chile SpA**
+  - Description:
+    - I started working as a Software Developer using Microsoft technologies and managing a Linux based network.   One of the projects developed during this period was a Web Rapid Application Development (RAD), written mainly in Javascript, using ASP.Net to access to persistence tiers implemented in SQL Server 2005.   We developed multiple projects using this tool in different companies in the area.   In relation to with Network Administration I setup and managed multiple services required by the office using servers that run on VMWare and RedHAT
+    - In the year 2012 the company was acquired by the norwegian company Mercatus, so we migrated our services from Linux to Microsoft, maintaining the use of VMWare and ESXi.   In this period we developed web projects using the .Net framework 3.5 and 4.0 with SQL Server 2005 and 2008 also Reporting Services and DotNetNuke.   Also, I participated in the design and implementation of best practices and services for continuous improvement for our workflow, using Scrum and Continuous Integration
+    - In the year 2010 I left the team, but I kept working remotely, maintaining and adding new features to the systems developed before, using Microsoft SQL Server 2005, 2008 and Reporting Services
+  - Tasks:
+    - Desarrollo y mantención de software
+		- Administración de redes
+		- Administración de sistemas
+		- Gestión de proyectos
+  - Tags:
+    - Microsoft
+		- Visual Studio .Net
+		- Microsoft SQL Server 2005
+		- Microsoft SQL Server 2008
+		- Microsoft Reporting Services
+		- Visual Studio .NET
+		- Reporting Services
+		- DotNetNuke
+		- Linux
+		- VMWare
+		- ESXi
+		- Continuous Integration
+		- Scrum
+		- SVN
+		- CrouseControl
+		- FogBugz
+		- FxCop
+		- TypeMock
+		- Watin
+		- Nant
+		- MBUnit
+		- TestDriven.NET
+		- Mono
+		- RAD
+		- Javascript
+- **August 2004 - January 2008 - Teacher - Universidad Austral de Chile**
+  - Description:
+    - Teacher for the class 'Technological Research Seminar', dictated every second semester in the Computer Engineering program in the Puerto Montt Campus. During these years, we investigated robotics, creating our own robots, using computer parts, our own electronics and mechanics, working in a Linux environment.   We designed an open architecture, creating apps to control our robots and drivers to interact with the hardware.   In time we created new versions of this platform, designing a framework to develop projects that require hardware integration, using Linux, called Monobotics, based on Mono
+  - Tasks:
+    - Investigación
+    - Desarrollo de Software
+  - Tags:
+    - Linux
+		- PcBot
+		- Mono
+		- Monobotics
+		- Hardware
+		- Robot
+		- Drivers
+- **April 2004 - January 2005 - Webmaster - Universidad Austral de Chile**
+  - Description:
+    - I worked as Webmaster, administrating Red Hat Linux servers, setting up security policies, and content generation
+  - Tasks:
+    - Administración de servidores
+    - Gestión de seguridad
+    - Generación de contenidos
+  - Tags:
+    - Linux
+    - Servers and Network Administration
+- **April 2003 - October 2003 - Marine Harvest - Hardware Support**
+  - Description:
+    - I was dedicated to hardware support and computers maintenance
+  - Tasks:
+    - Hardware maintenance
+  - Tags:
+    - Hardware maintenance

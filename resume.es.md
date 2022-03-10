@@ -1,0 +1,278 @@
+# Resume
+
+## Información:
+- Nombre: Pablo Andrés Mansilla Ojeda
+- Titulo Académico: Ingeniero de Software
+- Universidad: Universidad Austral de Chile
+- Teléfono: +56982150949
+- Correo: pablo@ppamo.cl
+- Dirección: Santiago, Chile
+- Sitio Web: https://www.ppamo.cl
+- Github: https://github.com/Ppamo
+- Linkedin: https://www.linkedin.com/in/ppamo/es
+
+## Sobre mi:
+
+Me apasiona el diseño e implementación de proyectos tecnológicos, especialmente en la Web, intentando generar productos y servicios innovadores útiles y amigables
+
+## Educación:
+
+- 2022 - Diplomado en Redteam - Universidad de Santiago de Chile
+  - Tags:
+    - Pentesting Web
+    - Ethical Hacking
+    - Reversing & Exploiting
+    - OSINT
+    - OCSP
+    - Criptografía
+    - Arquitectura Cloud
+- 2020 - Diplomado de Extención en Artes Visuales - Universidad de Chile
+  - Tags:
+    - Historia del Arte
+    - Curatoría
+    - Arte Contemporáneo
+    - Intermediación
+- 2013 - Silicon Valley Immersion - Universidad de San Francisco
+  - Tags:
+    - Innovacion
+    - Eemprendimiento
+    - Design Thinking
+- 2011 - Magister en Innovación Tecnológica y Emprendimiento - Universidad Técnica Federico Santa María
+  - Tags:
+    - Gestión de la Innovación
+    - Emprendimiento
+    - Intraemprendimiento
+    - Diseño de productos y servicios
+    - Gestión del Conocimiento
+- 2010 - Taller de Dirección de Proyectos de Tecnologías de Información - Universidad Técnica Federico Santa María
+  - Tags:
+    - Modelo PMBOK
+    - Administración de Proyectos
+- 2009 - Diploma de Postítulo, Creación Fotográfica Experimental - Universidad de Chile
+  - Tags:
+    - Fotografía
+    - Teoría del Arte
+    - Creación Experimental
+- 2007 - Título de Ingeniero en Computación, y Licenciado en las Ciencias de la Computación - Universidad Austral de Chile
+  - Tags:
+    - Diseño e implementación de software
+    - Gestión de Proyectos
+    - Investigación y desarrollo
+- 2003 - Ingeniería en Computación - Universidad Austral de Chile
+
+
+## Experiencia:
+
+- **Noviembre 2017 - Febrero 2022 - Ingeniero de Software - IBM**
+  - Descripción:
+    - Participo en múltiples proyectos de desarrollo de software para IBM, ejecutandose cada uno en distintos clientes, muchos de ellos relacionados con la banca.   Todos los proyectos fueron desarrollados para la Nube y todos compartían una diseño similar, partían con una aplicación mobile, que consumía múltiples APIs desplegadas en Mobile First Platform que a su vez consumía APIs en API Connect, las cuales componían o agregaba múltiples microservicios desplegados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente.   También diseñé e implementé flujos de desarrollo y herramientas para el equipo usando Gitlab
+  - Proyectos:
+    - Noviembre 2017 - Febrero 2018 - Banco Itau
+      - Tareas
+        - Desarrollo de Microservicios escritos en Golang, Java y NodeJS y orquestados en Kubernetes
+        - Diseño e implementación del flujo de desarrollo, usando Gitlab
+        - Mantención y puesta a punto IBM Cloud Private sobre RHEL
+        - Diseño y documentación de especificaciones técnicas
+        - Desarrollo de herramientas para despliegue de los servicios en BASH
+        - Desarrollo de herramientas para el desarrollo
+        - Ejecución y documentación de pruebas de stress
+        - Integración con Urban Code
+        - Microservicios fundacionales
+        - Microservicios Geolocalizacion
+        - Diseño del flujo de desarrollo
+        - Desarrollo de herramientas para el desarrollo
+        - Instalación y configuración Gitlab
+        - Despliegue de los servicios a IBM Cloud Private
+    - Diciembre 2018 - Febrero 2019 - Banco Estado
+      - Tareas:
+        - Modificación de imágenes docker para que se ejecuten correctamente en Kubernetes
+        - Creación de artefactos Kubernetes para ejecutar los servicios
+    - Febrero 2019 - Agosto 2019 - Banco de Chile
+      - Tareas:
+        - Desarrollo APIs en API Connect
+        - Desarrollo adaptadores Mobile First Platform
+        - Creación artefactos de Kubernetes
+        - Mock Server Node
+        - Adaptación de imágenes Docker
+        - Análisis de los Hackeos al Cluster ICP
+        - Adaptación de App Mobile - Ionic/Cordova
+    - Octubre 2019 - Junio 2020 - Copec
+      - Tareas:
+        - Mantención aplicaciones ASP .Net (IIS / Microsoft SQL Server)
+        - Integración msbuild - bamboo
+        - Mantención Aplicaciones de escritorio .Net
+        - Decompilación y auditoría
+        - Análisis ciberataque servidor en la nube
+        - Administración SPSS
+    - Julio 2020 - Febrero 2022 - Provida
+      - Tareas:
+        - Desarrollo de Microservicios en NodeJS y Golang
+        - Diseño e implementación del flujo de desarrollo usando Gitlab
+        - Diseño e implementación de pipelines de despliegue
+  - Tags:
+    - Git
+    - Gitlab
+    - Java
+    - Spring Boot
+    - Golang
+    - Node
+    - Javascript
+    - Docker
+    - Kubernetes
+    - IBM Cloud Private
+    - Mobile First Platform
+    - API
+    - Restful
+    - Maven
+    - Eclipse
+    - Linux
+    - Bash
+    - Red Hat Enterprise Linux
+    - JMeter
+    - Apache Bench
+    - Api Connect
+    - App mobile IONIC/Cordova
+    - RedHat OpenShift
+    - IBM Toolchains
+    - Cloudant
+    - CouchDB
+- **Marzo 2015 - Diciembre 2016 - Evaluador de proyectos CORFO - Corporación de Desarrollo Tecnológico Bienes de Capital**
+  - Descripción:
+    - Evalúo proyectos que participan en los distintos concursos de innovación de CORFO, calificando su mérito técnico, financiero y comercial, para determinar su viabilidad y apego a las bases del concurso
+  - Tags:
+    - Evaluación de proyectos
+- **Agosto 2013 - Diciembre 2016 - Ingeniero de Software - Schibsted Chile SpA**
+  - Descripción:
+    - Schibsted es un grupo internacional de medios de origen Noruego, en Chile tienen el sitio de clasificados Yapo.cl.   Me dediqué al desarrollo e integración de nuevas características al sitio y a mejoras en los procesos internos de desarrollo.   El núcleo del sitio está escrito principalmente en C y PHP, y se está pasando a un modelo de microservicios escritos principalmente en Golang con interfaz JSON.   El modelo de trabajo era en equipos multidisciplinarios y autogestionados siguiendo algunos aspectos de Scrum, como las reuniones diarias, desarrollo iterativo y retroalimentación, además usamos Kanban para enfocar, visualizar y comunicar los avances.   Utilizamos un proceso de paso a producción que incluye QA manual en ambientes de Desarrollo y Staging, e integración continua utilizando Jenkins integrado a Git y Docker
+  - Tasks:
+    - Diseño y desarrollo de software
+    - Diseño, desarrollo e integración de API's
+    - Mantención de componentes de la plataforma
+    - Diseño y desarrollo e Integración de API's
+    - Integración con Jenkins CI
+    - Configuración de servidores
+  - Tags:
+    - API
+    - RESTful
+    - Linux
+    - Postgresql
+    - PHP
+    - Python
+    - Javascript
+    - Golang
+    - Redis
+    - RabbitMQ
+    - C
+    - Git
+    - Jenkins
+    - Selenium
+    - Github
+    - Continuous Integration
+    - Docker
+    - NodeJS
+    - MongoDB
+    - Scrum
+    - Kanban
+    - Transbank
+    - Leankit
+  - Proyectos:
+      - Mock Server
+      - Créditos en web
+      - Integración de la web con OneClickPayment
+      - Mensajería en web y aplicaciones
+      - Borradores para la web mobile
+      - Correr los tests en Jenkins dockerizados
+      - Actualiza el formulario de inserción de avisos en mobile
+      - Wrapper para aplicación Firefox de la Web
+      - Integración con Transbank
+      - Diseño de Circuito de Integración Continua y Ejecución de Tests
+      - Scoreboard
+- **Mayo 2011 - Octubre 2011 - Lider Técnico - Idontek**
+  - Descripción:
+    - Co-fundador de éste Startup, donde diseñe y configuré una plataforma electrónica para la administración y generación de proyectos usando herramientas de código abierto, tales como SugarCRM, SVN, Redmine.   El núcleo del servicio estaba escrito en .NET.   El emprendimiento era parte del proyecto BizSpark de Microsoft
+  - Tareas:
+    - Diseño de plataforma electrónica para la administración y generación de proyectos
+  - Tags:
+    - BizSpark
+    - Visual Studio .Net
+    - SugarCRM
+    - SVN
+    - Redmine
+  - Proyectos:
+    - Venta de maquinas de autoservicio
+    - Emprendimiento parte del programa BizSpark de Microsoft
+- **Abril 2010 - Mayo 2013 - Ingeniero de Software Externo - Bell Technologies S.A**
+  - Descripción:
+    - Trabajé como Ingeniero Externo, realizando proyectos de desarrollo de software y mejora de procesos de desarrollo en distintos departamentos dentro de la empresa.   La gran parte de los proyectos se desarrollaron sobre el framework .NET, principalmente generando proveedores de datos utilizados para conectar la interfaz de la máquina de autoservicios de Belltech con los servicios de datos de los clientes.   También trabajé con el departamento de IVR, desarrollando herramientas para almacenamiento secundario de datos generados y su conversión.   Además diseñé e implementé la plataforma de Integración Continua en el área de servicios profesionales utilizando TFS, Teamcity, Redmine y Moodle
+  - Tareas:
+    - Diseño y desarrollo de software
+    - Gestión de proyectos
+    - Diseño, desarrollo e integración de API's
+    - Diseño e implementación de Integración Contínua
+- **Abril 2004 - Abril 2012 - Ingeniero de Software - Mercatus Chile SpA**
+  - Descripción:
+    - Comencé a trabajar como Desarrollador de software utilizando tecnología Microsoft y administrando una red basada en Linux.   Uno de los proyectos que desarrollamos durante esta etapa consistió en un framework web de desarrollo rápido (RAD), escrito principalmente en Javascript, utilizando ASP.Net para acceder a la capa de persistencia implementada en SQL Server 2005.   Utilizando éste framework desarrollamos proyectos para empresas salmoneras de la zona.   En relación a la administración de redes configuré y administré distintos servicios necesarios para el funcionamiento de la oficina utilizando servidores virtualizados con VMWare y RedHAT
+		- El año 2012 la compañía fue adquirida por la empresa noruega Mercatus, por lo que migramos los servicios de la oficina desde Linux a Microsoft, manteniendo el uso de VMWare y ESXi.   Durante ésta etapa desarrollamos proyectos WEB utilizando el framework .Net 3.5 y 4.0 junto a SQL Server 2005 y 2008, también Reporting Services y DotNetNuke.   Además participé en el diseño e implementación de buenas prácticas y servicios de mejora contínua para el equipo, utilizando Scrum e Integración Contínua durante el proceso de desarrollo
+		- El año 2010 dejo el equipo, pero me mantengo trabajando como freelance realizando mantención a algunos de los sistemas desarrollados anteriormente e implementando nuevas funcionalidades utilizando Microsoft SQL Server 2005, 2008 y Reporting Services
+  - Tareas:
+    - Desarrollo y mantención de software
+		- Administración de redes
+		- Administración de sistemas
+		- Gestión de proyectos
+  - Tags:
+    - Microsoft
+		- Visual Studio .Net
+		- Microsoft SQL Server 2005
+		- Microsoft SQL Server 2008
+		- Microsoft Reporting Services
+		- Visual Studio .NET
+		- Reporting Services
+		- DotNetNuke
+		- Linux
+		- VMWare
+		- ESXi
+		- Continuous Integration
+		- Scrum
+		- SVN
+		- CrouseControl
+		- FogBugz
+		- FxCop
+		- TypeMock
+		- Watin
+		- Nant
+		- MBUnit
+		- TestDriven.NET
+		- Mono
+		- RAD
+		- Javascript
+- **Agosto 2004 - Enero 2008 - Profesor - Universidad Austral de Chile**
+  - Descripción:
+    - Profesor para el ramo 'Seminario de Investigación Tecnológica' que se dictaba cada segundo semestre, en la Carrera de Ingeniería en Computación, en el Campus Puerto Montt de la Universidad Austral.   Durante el cual realizamos investigación en el área de robótica, creando nuestro propio robot utilizando partes de PCs y trabajando en entorno Linux, donde diseñamos una arquitectura abierta, creamos aplicaciones para el control del robot y drivers para controlar las piezas de hardware.   A través del tiempo creamos nuevas versiones de la plataforma, diseñando un framework para el desarrollo de proyectos que requieran de integración de hardware con Linux llamado Monobotics, el cual estaba basado en Mono
+  - Tareas:
+    - Investigación
+    - Desarrollo de Software
+  - Tags:
+    - Linux
+		- PcBot
+		- Mono
+		- Monobotics
+		- Hardware
+		- Robot
+		- Drivers
+- **Abril 2004 - Enero 2005 - Webmaster - Universidad Austral de Chile**
+  - Descripción:
+    - Trabajé como Webmaster para la Unidad Ejecutora de Red Enlaces, dependiente de la Universidad Austral de Chile.   Donde administré algunos servidores basados en Linux Redhat, concentrándome en seguridad y generación de contenidos
+  - Tareas:
+    - Administración de servidores
+    - Gestión de seguridad
+    - Generación de contenidos
+  - Tags:
+    - Linux
+    - Administración de Servidores
+- **Abril 2003 - Octubre 2003 - Marine Harvest - Soporte de Hardware**
+  - Descripción:
+    - Trabajé en el departamento de Informática de Marine Harvest Chile, desempeñando labores de soporte de hardware y mantención de equipos
+  - Tareas:
+    - Mantención de hardware
+  - Tags:
+    - Mantención de hardware

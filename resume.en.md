@@ -64,7 +64,7 @@ I enjoy design and implementation of technological projects, especially over the
 
 - **November 2017 - February 2022 - Software Engineer - IBM**
   - Description:
-    - I participate in multiple software development projects, each executed for different clients.  All of it develped for the Cloud, and share a similar architecture, a Web or Mobile client, APIs in API Connect and Microservices orchrestated with Docker and Kubernetes.  I have not only developed software, but also managed servers and clusters, fine-tuned performances, calculated volumetry and integrated different services in customer dependencies.   I also designed and implemented development flows and tools for the team, using Gitlab, Jenkins and Bash
+    - I participate in multiple software development projects at IBM, each executed for different clients, most of them banks.   All of it designed for the Cloud with a common architecture, a Web or Mobile client, APIs running on API Connect and Microservices orchrestated with Kubernetes.   I have not only developed software, but also managed servers and clusters, fine-tune performance, calculated volumetry and integrated different services in the customer dependencies.   I also designed and implemented development flows and tools for the team and for the clients.
   - Projects:
     - November 2017 - February 2018 - Banco Itau
       - Tasks

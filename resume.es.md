@@ -18,6 +18,8 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 ## Educación:
 
 - 2022 - Diplomado en Redteam - Universidad de Santiago de Chile
+  - Descripción:
+    - El objetivo del diplomado es que el alumno logre asimilar las conductas de un Red Team, comprenda y utilice metodologías, técnicas y herramientas que le permitan vulnerar un sistema tecnológico, obtener información valiosa y relevante en modalidad de caja negra, gris o blanca, accediendo a los recursos internos de la organización y que mantenga el acceso abierto de manera persistente, con el objeto de demostrar las brechas de seguridad de la organización desde la perspectiva de un atacante, identificando a su vez, las diferentes vulnerabilidades de la red corporativa y sus sistemas, para así, y según los objetivos del cliente, entregar un informe de resultados de acuerdo a sus necesidades
   - Tags:
     - Pentesting Web
     - Ethical Hacking
@@ -27,17 +29,22 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Criptografía
     - Arquitectura Cloud
 - 2020 - Diplomado de Extención en Artes Visuales - Universidad de Chile
+  - Descripción:
+    - El Diplomado pretende contribuir al acercamiento del público a través de la mirada de artistas que, mediante la producción de su obra y de la investigación académica, han desarrollado el programa de cada asignatura a partir de su trabajo en ámbitos donde son destacados exponentes.
   - Tags:
     - Historia del Arte
     - Curatoría
     - Arte Contemporáneo
     - Intermediación
 - 2013 - Silicon Valley Immersion - Universidad de San Francisco
+  - Descripción:
   - Tags:
     - Innovacion
     - Eemprendimiento
     - Design Thinking
 - 2011 - Magister en Innovación Tecnológica y Emprendimiento - Universidad Técnica Federico Santa María
+  - Descripción:
+    - Su Objetivo es entregar conceptos y herramientas prácticas, orientados a motivar la conducta emprendedora y aplicarla a la creación de empresas con alto grado de innovación tecnológica en productos y servicios para mercados globales.
   - Tags:
     - Gestión de la Innovación
     - Emprendimiento
@@ -45,15 +52,20 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Diseño de productos y servicios
     - Gestión del Conocimiento
 - 2010 - Taller de Dirección de Proyectos de Tecnologías de Información - Universidad Técnica Federico Santa María
+  - Descripción:
   - Tags:
     - Modelo PMBOK
     - Administración de Proyectos
 - 2009 - Diploma de Postítulo, Creación Fotográfica Experimental - Universidad de Chile
+  - Descripción:
+    - Este programa tiene como objetivo fundamental desarrollar, afianzar y proyectar la creación fotográfica a través de la utilización de herramientas vinculadas a los soportes analógicos y digitales.
   - Tags:
     - Fotografía
     - Teoría del Arte
     - Creación Experimental
 - 2007 - Título de Ingeniero en Computación, y Licenciado en las Ciencias de la Computación - Universidad Austral de Chile
+  - Descripción:
+    - La universidad forma Ingenieros en Computación comprometidos con su área de estudios y responsables ética y moralmente, capaces de diseñar y desarrollar soluciones informáticas integradas, conociendo y adaptando las tecnología emergentes a su campo de acción, con miras a resolver los problemas informáticos y tecnológicos del sector productivo de la zona y de la sociedad en general, de manera sustentable, cuidando los aspectos económicos y legales de la sociedad en donde se inserta.
   - Tags:
     - Diseño e implementación de software
     - Gestión de Proyectos
@@ -65,7 +77,7 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 
 - **Noviembre 2017 - Febrero 2022 - Ingeniero de Software - IBM**
   - Descripción:
-    - Participo en múltiples proyectos de desarrollo de software para IBM, ejecutandose cada uno en distintos clientes, muchos de ellos relacionados con la banca.   Todos los proyectos fueron desarrollados para la Nube y todos compartían una diseño similar, partían con una aplicación mobile, que consumía múltiples APIs desplegadas en Mobile First Platform que a su vez consumía APIs en API Connect, las cuales componían o agregaba múltiples microservicios desplegados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente.   También diseñé e implementé flujos de desarrollo y herramientas para el equipo usando Gitlab
+    - Participo en múltiples proyectos para IBM, ejecutándose cada uno en distintos clientes, muchos de ellos bancos.   Todos los proyectos se desarrollaron para la Nube, y compartían una arquitectura similar, un cliente web o mobile que consumía apis desplegadas en API Connect que a su vez componían o agregaban los resultados de distintos microservicios orquestados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente, calcular volumetría y realizar ajustes de rendimiento.   También diseñé e implementé flujos de desarrollo para el equipo y para los clientes, y herramientas para automatizar algunos de estos procesos.
   - Proyectos:
     - Noviembre 2017 - Febrero 2018 - Banco Itau
       - Tareas

@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="216mm"
    height="279mm"
    viewBox="0 0 216 279"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="01.svg">
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -81,18 +81,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.28"
-     inkscape:cx="406.29119"
-     inkscape:cy="234.57658"
+     inkscape:cx="406.25"
+     inkscape:cy="484.375"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -137,7 +139,8 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara108817" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara108819" /></flowRoot>    <flowRoot
+         id="flowPara108819" /></flowRoot>
+    <flowRoot
        transform="matrix(0.19475682,0,0,0.21072432,-47.540421,1.9740434)"
        xml:space="preserve"
        id="flowRoot10-9"
@@ -153,7 +156,8 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.3334px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7">MANSILLA</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1" /></flowRoot>    <text
+         id="flowPara26-1" /></flowRoot>
+    <text
        id="text23"
        y="41.084927"
        x="6.099226"
@@ -177,7 +181,8 @@
            x="32.526913"
            y="201.15955"
            style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3994" /></flowRoot>    <rect
+         id="flowPara3994" /></flowRoot>
+    <rect
        style="fill:#4d4d4d;stroke-width:0.0982033"
        id="rect28-12"
        width="62.291664"
@@ -200,7 +205,8 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.1667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7-5">QUIEN SOY</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1-7" /></flowRoot>    <flowRoot
+         id="flowPara26-1-7" /></flowRoot>
+    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-1.2589476,1.5991882)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0.1px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3996"
@@ -214,7 +220,8 @@
            width="242.49088"
            id="rect4000" /></flowRegion><flowPara
          style="font-size:16px;text-align:start;word-spacing:0.1px;text-anchor:start"
-         id="flowPara4002">Me apasiona el diseño e implementación de proyectos tecnológicos, especialmente en Internet, intentando generar productos y servicios innovadores útiles y amigables</flowPara></flowRoot>    <rect
+         id="flowPara4002">Me apasiona el diseño e implementación de proyectos tecnológicos, especialmente en Internet, intentando generar productos y servicios innovadores útiles y amigables</flowPara></flowRoot>
+    <rect
        style="fill:#4d4d4d;stroke-width:0.0982035"
        id="rect28-12-9"
        width="62.292"
@@ -237,7 +244,8 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.1667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7-5-9">EDUCACION</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1-7-3" /></flowRoot>    <g
+         id="flowPara26-1-7-3" /></flowRoot>
+    <g
        id="g125579"
        transform="translate(0,13.997269)">
       <text
@@ -255,8 +263,7 @@
            id="tspan4014-2"
            y="125.29121"
            x="6.3835831"
-           sodipodi:role="line"
-           style="font-size:4.23333px;stroke-width:0.264583" /></text>
+           sodipodi:role="line" /></text>
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,24.475086,10.998116)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -273,7 +280,8 @@
            id="flowPara4111-8"
            style="font-size:13.3333px;text-align:justify;text-anchor:start">Taller<flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan5088"> Silicon Valley Immersion</flowSpan>, programa de la Universidad de San Francisco</flowPara></flowRoot>    </g>
+   id="flowSpan5088"> Silicon Valley Immersion</flowSpan>, programa de la Universidad de San Francisco</flowPara></flowRoot>
+    </g>
     <g
        id="g157446">
       <text
@@ -291,8 +299,7 @@
            id="tspan4014-2-98"
            y="127.99142"
            x="6.3702745"
-           sodipodi:role="line"
-           style="font-size:4.23333px;stroke-width:0.264583" /></text>
+           sodipodi:role="line" /></text>
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,24.461777,13.698337)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -309,7 +316,8 @@
            id="flowPara4111-8-4"
            style="font-size:13.3333px;text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold"
-   id="flowSpan138076">Diplomado en RedTeam</flowSpan>, Universidad de Santiago de Chile</flowPara></flowRoot>    </g>
+   id="flowSpan138076">Diplomado en RedTeam</flowSpan>, Universidad de Santiago de Chile</flowPara></flowRoot>
+    </g>
     <g
        id="g157436"
        transform="translate(0,0.15120305)">
@@ -328,8 +336,7 @@
            id="tspan4014-2-2"
            y="133.48874"
            x="6.3702788"
-           sodipodi:role="line"
-           style="font-size:4.23333px;stroke-width:0.264583" /></text>
+           sodipodi:role="line" /></text>
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,24.461782,19.195667)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -346,7 +353,8 @@
            id="flowPara4111-8-1"
            style="font-size:13.3333px;text-align:justify;text-anchor:start">Diplomado de <flowSpan
    style="font-weight:bold"
-   id="flowSpan140256">Extensión de Artes Visuales</flowSpan>, Universidad de Chile</flowPara></flowRoot>    </g>
+   id="flowSpan140256">Extensión de Artes Visuales</flowSpan>, Universidad de Chile</flowPara></flowRoot>
+    </g>
     <g
        id="g4940"
        transform="translate(-0.18571071,32.543757)">
@@ -378,7 +386,8 @@
            id="flowPara4111-8-2"
            style="font-size:13.3333px;text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan5090">Magister en Innovación Tecnológica y Emprendimiento</flowSpan> de la Universidad Técnica Federico Santa María</flowPara></flowRoot>    </g>
+   id="flowSpan5090">Magister en Innovación Tecnológica y Emprendimiento</flowSpan> de la Universidad Técnica Federico Santa María</flowPara></flowRoot>
+    </g>
     <g
        id="g4948"
        transform="translate(-0.18571071,32.048648)">
@@ -410,7 +419,8 @@
            id="flowPara4111-8-2-7"
            style="font-size:13.3333px;text-align:justify;text-anchor:start">Taller de <flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan5116">Dirección de Proyectos de Tecnologías de Información</flowSpan> en la Universidad Técnica Federico Santa María</flowPara></flowRoot>    </g>
+   id="flowSpan5116">Dirección de Proyectos de Tecnologías de Información</flowSpan> en la Universidad Técnica Federico Santa María</flowPara></flowRoot>
+    </g>
     <g
        id="g4956"
        transform="translate(-0.18571071,31.553532)">
@@ -442,7 +452,8 @@
            id="flowPara4111-8-2-7-3"
            style="font-size:13.3333px;text-align:justify;text-anchor:start">Diploma de Postítulo de la Universidad de Chile, <flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan5092">Creación Fotográfica Experimental</flowSpan></flowPara></flowRoot>    </g>
+   id="flowSpan5092">Creación Fotográfica Experimental</flowSpan></flowPara></flowRoot>
+    </g>
     <g
        id="g4964"
        transform="translate(-0.18571071,31.118401)">
@@ -476,7 +487,8 @@
    style="font-weight:bold;text-align:justify;text-anchor:start"
    id="flowSpan5094">Ingeniero en Computación</flowSpan>, y <flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan5098">Licenciado en las Ciencias de la Computación</flowSpan>, Universidad Austral de Chile</flowPara></flowRoot>    </g>
+   id="flowSpan5098">Licenciado en las Ciencias de la Computación</flowSpan>, Universidad Austral de Chile</flowPara></flowRoot>
+    </g>
     <g
        id="g4972"
        transform="translate(-0.18571071,30.623277)">
@@ -508,7 +520,8 @@
            id="flowPara4111-8-2-7-3-2"
            style="font-size:13.3333px;text-align:justify;text-anchor:start"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start"
-   id="flowSpan5096">Ingeniería en Computación</flowSpan>, Universidad Austral de Chile</flowPara></flowRoot>    </g>
+   id="flowSpan5096">Ingeniería en Computación</flowSpan>, Universidad Austral de Chile</flowPara></flowRoot>
+    </g>
     <rect
        y="179.05231"
        x="6.5388055"
@@ -532,7 +545,8 @@
          id="flowPara22-7-5-8"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.1667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">EXPERIENCIA</flowPara><flowPara
          id="flowPara26-1-7-4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>
+    <g
        id="g95468">
       <image
          width="6"
@@ -557,7 +571,8 @@
              y="216.00879"
              style="font-size:16px" /></flowRegion><flowPara
            id="flowPara4002-4"
-           style="font-size:12px;word-spacing:1px">Santiago de Chile</flowPara></flowRoot>    </g>
+           style="font-size:12px;word-spacing:1px">Santiago de Chile</flowPara></flowRoot>
+    </g>
     <g
        id="g95493">
       <image
@@ -583,7 +598,8 @@
              y="216.00879"
              style="font-size:16px" /></flowRegion><flowPara
            id="flowPara4002-4-3"
-           style="font-size:12px;word-spacing:1px">+56 982150949</flowPara></flowRoot>    </g>
+           style="font-size:12px;word-spacing:1px">+56 982150949</flowPara></flowRoot>
+    </g>
     <g
        id="g95721">
       <image
@@ -609,7 +625,8 @@
              y="216.00879"
              style="font-size:16px" /></flowRegion><flowPara
            id="flowPara4002-4-2"
-           style="font-size:12px;word-spacing:1.5px">pablo@ppamo.cl</flowPara></flowRoot>    </g>
+           style="font-size:12px;word-spacing:1.5px">pablo@ppamo.cl</flowPara></flowRoot>
+    </g>
     <g
        id="g95751">
       <image
@@ -635,7 +652,8 @@
              y="216.00879"
              style="font-size:16px" /></flowRegion><flowPara
            id="flowPara4002-4-7"
-           style="font-size:12px;word-spacing:1.5px">www.ppamo.cl</flowPara></flowRoot>    </g>
+           style="font-size:12px;word-spacing:1.5px">www.ppamo.cl</flowPara></flowRoot>
+    </g>
     <g
        id="g95804">
       <image
@@ -661,7 +679,8 @@
              y="216.00879"
              style="font-size:16px" /></flowRegion><flowPara
            id="flowPara4002-4-3-4"
-           style="font-size:12px;word-spacing:1.5px">github.com/Ppamo</flowPara></flowRoot>    </g>
+           style="font-size:12px;word-spacing:1.5px">github.com/Ppamo</flowPara></flowRoot>
+    </g>
     <g
        id="g95811">
       <image
@@ -687,38 +706,41 @@
              y="216.00879"
              style="font-size:16px" /></flowRegion><flowPara
            id="flowPara4002-4-2-2"
-           style="font-size:12px;word-spacing:1.5px">linkedin.com/in/Ppamo</flowPara></flowRoot>    </g>
+           style="font-size:12px;word-spacing:1.5px">linkedin.com/in/Ppamo</flowPara></flowRoot>
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot509"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Raleway;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Raleway;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion511"><rect
            id="rect513"
            width="168.29141"
            height="114.5513"
            x="259.50818"
            y="-10.414624" /></flowRegion><flowPara
-         id="flowPara515" /></flowRoot>    <g
-       id="g1680">
+         id="flowPara515" /></flowRoot>
+    <g
+       id="g2671"
+       transform="translate(0,2.1166667)">
       <g
-         id="g1595">
+         id="g1595"
+         transform="translate(0,40.745853)">
         <text
            inkscape:transform-center-x="2.1166667"
            id="text4008-4-5"
            y="195.46957"
            x="6.3765278"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58329964px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            xml:space="preserve"><tspan
              id="tspan4010-6-1"
-             style="font-size:2.82222009px;stroke-width:0.26458299"
+             style="font-size:2.82222px;stroke-width:0.264583"
              y="195.46957"
              x="6.3765278"
              sodipodi:role="line">11/2017 - 02/2022</tspan><tspan
              id="tspan4014-2-9"
              y="208.6987"
              x="6.3765278"
-             sodipodi:role="line"
-             style="font-size:3.52778006px;stroke-width:0.26458299" /></text>
+             sodipodi:role="line" /></text>
         <flowRoot
            transform="matrix(0.26458333,0,0,0.26458333,-6.4444707,88.663058)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -733,11 +755,12 @@
                width="118.56956"
                id="rect4109-4-3-7-1-6-9-6" /></flowRegion><flowPara
              id="flowPara4111-8-2-7-3-2-2-6"
-             style="font-weight:bold;font-size:13.33329964px">I B M</flowPara></flowRoot>      </g>
+             style="font-weight:bold;font-size:13.3333px">I B M</flowPara></flowRoot>
+      </g>
       <g
-         id="g1609">
+         id="g2648">
         <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,24.485669,94.170783)"
+           transform="matrix(0.26458333,0,0,0.26458333,24.485669,134.91664)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot4105-1-58"
            xml:space="preserve"><flowRegion
@@ -749,9 +772,10 @@
                height="164.2706"
                width="637.63556"
                id="rect4109-4-1" /></flowRegion><flowPara
-             style="font-size:13.33329964px;text-align:justify;text-anchor:start"
-             id="flowPara4111-8-7">Participo en múltiples proyectos de desarrollo de software para IBM, ejecutandose cada uno en distintos clientes, muchos de ellos relacionados con la banca.   Todos los proyectos fueron desarrollados para la Nube y todos compartían una diseño similar, partían con una aplicación mobile, que consumía múltiples APIs desplegadas en Mobile First Platform que a su vez consumía APIs en API Connect, las cuales componían o agregaba múltiples microservicios desplegados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente.   También diseñé e implementé flujos de desarrollo y herramientas para el equipo usando Gitlab</flowPara></flowRoot>        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,24.326919,88.663058)"
+             style="font-size:13.3333px;text-align:justify;text-anchor:start"
+             id="flowPara4111-8-7">Participo en múltiples proyectos de desarrollo de software para IBM, ejecutandose cada uno en distintos clientes, muchos de ellos relacionados con la banca.   Todos los proyectos fueron desarrollados para la Nube y todos compartían una diseño similar, partían con una aplicación mobile, que consumía múltiples APIs desplegadas en Mobile First Platform que a su vez consumía APIs en API Connect, las cuales componían o agregaba múltiples microservicios desplegados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente.   También diseñé e implementé flujos de desarrollo y herramientas para el equipo usando Gitlab</flowPara></flowRoot>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,24.326919,129.40891)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot4105-1-5-7-9-04-8-5-9"
            xml:space="preserve"><flowRegion
@@ -764,8 +788,9 @@
                width="625.56512"
                id="rect4109-4-3-7-1-6-9-6-4" /></flowRegion><flowPara
              id="flowPara4111-8-2-7-3-2-2-6-2"
-             style="font-weight:bold;font-size:13.33329964px">Ingeniero de Software</flowPara></flowRoot>        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,24.497468,136.6262)"
+             style="font-weight:bold;font-size:13.3333px">Ingeniero de Software</flowPara></flowRoot>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,24.497468,177.37205)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            id="flowRoot4105-1-58-6"
            xml:space="preserve"><flowRegion
@@ -774,119 +799,122 @@
                style="font-size:16px;text-align:start;text-anchor:start"
                y="369.45096"
                x="48.08326"
-               height="36.770599"
-               width="707.19806"
+               height="43.020599"
+               width="647.82306"
                id="rect4109-4-1-3" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66670036px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:start;text-anchor:start"
-             id="flowPara4111-8-7-2">Git / Docker / Kubernetes / Api Connect / Golang / Java / NodeJS / Linux / Automatización / Cloudant</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:start;text-anchor:start"
+             id="flowPara4111-8-7-2">Git / Docker / Kubernetes / Api Connect / Golang / Java / NodeJS / Linux / Automatización / Cloudant / OpenShift</flowPara></flowRoot>
+      </g>
     </g>
     <g
-       id="g1657">
+       id="g2601"
+       transform="translate(0.0172524,0.52916667)">
       <g
-         id="g1586">
+         id="g2578">
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58329964px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
-           x="6.3447776"
-           y="263.08749"
-           id="text4008-4-5-7"
-           inkscape:transform-center-x="2.1166667"><tspan
-             sodipodi:role="line"
-             x="6.3447776"
-             y="263.08749"
-             style="font-size:2.82222009px;stroke-width:0.26458299"
-             id="tspan4010-6-1-0">03/2015 - 12/2016</tspan><tspan
-             style="font-size:3.52778006px;stroke-width:0.26458299"
-             sodipodi:role="line"
-             x="6.3447776"
-             y="276.31662"
-             id="tspan4014-2-9-9" /></text>
+           inkscape:transform-center-x="2.1166667"
+           id="text4008-4-5-8"
+           y="195.76344"
+           x="6.5117207"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             id="tspan4010-6-1-5"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             y="195.76344"
+             x="6.5117207"
+             sodipodi:role="line">06/2022 - 03/2023</tspan><tspan
+             id="tspan4014-2-9-9"
+             y="208.99257"
+             x="6.5117207"
+             sodipodi:role="line" /></text>
         <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-5-7-9-04-8-5-5"
+           transform="matrix(0.26458333,0,0,0.26458333,-6.3092778,88.956925)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,-6.232804,145.65217)"><flowRegion
-             id="flowRegion4107-1-2-8-9-3-1-1-2"
-             style="font-size:16px"><rect
-               id="rect4109-4-3-7-1-6-9-6-5"
-               width="118.56956"
+           id="flowRoot4105-1-5-7-9-04-8-5-4"
+           xml:space="preserve"><flowRegion
+             style="font-size:16px"
+             id="flowRegion4107-1-2-8-9-3-1-1-3"><rect
+               style="font-size:16px"
+               y="369.45096"
+               x="48.08326"
                height="94.435028"
-               x="48.08326"
-               y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33329964px"
-             id="flowPara4111-8-2-7-3-2-2-6-8">Corporación</flowPara><flowPara
-             style="font-weight:bold;font-size:13.33329964px"
-             id="flowPara1497">de Desarrollo Tecnológico </flowPara></flowRoot>      </g>
+               width="118.56956"
+               id="rect4109-4-3-7-1-6-9-6-9" /></flowRegion><flowPara
+             id="flowPara4111-8-2-7-3-2-2-6-0"
+             style="font-weight:bold;font-size:13.3333px">Walmart Chile</flowPara></flowRoot>
+      </g>
       <g
-         id="g1632">
+         id="g2569">
         <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-58-1"
+           transform="matrix(0.26458333,0,0,0.26458333,24.620862,94.46465)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.323391,151.1599)"><flowRegion
-             id="flowRegion4107-1-4-0"
-             style="font-size:16px"><rect
-               id="rect4109-4-1-4"
-               width="642.3739"
-               height="64.51651"
-               x="48.08326"
+           id="flowRoot4105-1-58-63"
+           xml:space="preserve"><flowRegion
+             style="font-size:16px"
+             id="flowRegion4107-1-4-6"><rect
+               style="font-size:16px;stroke-width:1"
                y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             id="flowPara4111-8-7-7"
-             style="font-size:13.33329964px;text-align:justify;text-anchor:start">Evalúo proyectos que postulan a los distintos concursos de innovación de CORFO, calificando su mérito técnico, financiero y comercial, para determinar su viabilidad y apego a las bases del concurso</flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-5-7-9-04-8-5-9-5"
+               x="48.08326"
+               height="103.3331"
+               width="636.85431"
+               id="rect4109-4-1-30" /></flowRegion><flowPara
+             style="font-size:13.3333px;text-align:justify;text-anchor:start"
+             id="flowPara4111-8-7-8">Participé en el diseño y desarrollo de un conjunto de microservicios desarrollados principalmente en Golang, desplegados usando mecanismos propietarios y orquestados en Kubernetes.   El trabajo también implicó integración con distintas tecnologías, por ejemplo Microsoft SQL Server, Redis o Kafka, y asegurarnos que cada microservicios cumplía con los estándares del modelo de calidad de software que Walmart impulsa</flowPara></flowRoot>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,24.462112,88.956925)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.326919,145.65217)"><flowRegion
-             id="flowRegion4107-1-2-8-9-3-1-1-4-5"
-             style="font-size:16px"><rect
-               id="rect4109-4-3-7-1-6-9-6-4-5"
-               width="625.56512"
+           id="flowRoot4105-1-5-7-9-04-8-5-9-4"
+           xml:space="preserve"><flowRegion
+             style="font-size:16px"
+             id="flowRegion4107-1-2-8-9-3-1-1-4-0"><rect
+               style="font-size:16px"
+               y="369.45096"
+               x="48.08326"
                height="36.452278"
-               x="48.08326"
+               width="625.56512"
+               id="rect4109-4-3-7-1-6-9-6-4-4" /></flowRegion><flowPara
+             id="flowPara4111-8-2-7-3-2-2-6-2-6"
+             style="font-weight:bold;font-size:13.3333px">Ingeniero de Software Externo</flowPara></flowRoot>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,24.632661,120.5158)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot4105-1-58-6-4"
+           xml:space="preserve"><flowRegion
+             style="font-size:16px;text-align:start;text-anchor:start"
+             id="flowRegion4107-1-4-5-6"><rect
+               style="font-size:16px;text-align:start;text-anchor:start"
                y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33329964px"
-             id="flowPara4111-8-2-7-3-2-2-6-2-3">Evaluador de Proyectos de Innovación Tecnológica</flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-58-6-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.497468,166.43655)"><flowRegion
-             id="flowRegion4107-1-4-5-0"
-             style="font-size:16px"><rect
-               id="rect4109-4-1-3-2"
-               width="630.63556"
-               height="24.270597"
                x="48.08326"
-               y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             id="flowPara4111-8-7-2-2"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66670036px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Evaluación de proyectos / <flowSpan
-   style="text-align:start;text-anchor:start"
-   id="flowSpan869">Innovación</flowSpan></flowPara></flowRoot>      </g>
+               height="33.645599"
+               width="640.01056"
+               id="rect4109-4-1-3-4" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:start;text-anchor:start"
+             id="flowPara4111-8-7-2-3">Git / Docker / Kubernetes / Golang / NodeJS / Linux / WCNP / Microsoft SQL Server / Redis</flowPara></flowRoot>
+      </g>
     </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3091"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Raleway;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Raleway;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3093"><rect
            id="rect3095"
            width="35"
            height="64"
            x="252"
            y="128.48819" /></flowRegion><flowPara
-         id="flowPara3097" /></flowRoot>    <flowRoot
+         id="flowPara3097" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot3757"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:Raleway;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Raleway;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3759"><rect
            id="rect3761"
            width="100.5"
            height="121"
            x="937.25"
            y="42.98819" /></flowRegion><flowPara
-         id="flowPara3763" /></flowRoot>    <g
+         id="flowPara3763" /></flowRoot>
+    <g
        id="g97097"
        transform="translate(0,2.1166681)">
       <flowRoot
@@ -905,7 +933,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-6-9-5-1-7-2">source control</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0" /></flowRoot>
+      <g
          id="g97087">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -939,7 +968,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-3-39-9-6-0-6">ci/cd</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4" /></flowRoot>
+      <g
          id="g97101">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -971,7 +1001,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9">agile</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9">agile</flowPara></flowRoot>
+      <g
          id="g97115">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1005,7 +1036,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-3-6-7-37-0-6">java</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7" /></flowRoot>
+      <g
          id="g97132">
         <g
            id="g97127">
@@ -1042,7 +1074,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-7-5-8-6-6-3">.net</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7" /></flowRoot>
+      <g
          id="g97147">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1076,7 +1109,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-15-7-7-6-8-6-2-2-8">mono</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2" /></flowRoot>
+      <g
          id="g97161">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1110,7 +1144,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-6-5-2-9-4-6-3">python</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3" /></flowRoot>
+      <g
          id="g97175">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1144,7 +1179,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-6-5-2-9-2-2-5-4">golang</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3" /></flowRoot>
+      <g
          id="g97202">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1178,7 +1214,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-3-3-6-1-1-99-9-3">c</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8" /></flowRoot>
+      <g
          id="g97216">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1210,7 +1247,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9">node js</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9">node js</flowPara></flowRoot>
+      <g
          id="g97189">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1248,7 +1286,8 @@
          id="flowPara22-7-5-3-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">CODIGO</flowPara><flowPara
          id="flowPara26-1-7-9-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86120033px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRoot>
+    <rect
        style="fill:#4d4d4d;stroke-width:0.05005712"
        id="rect28-12-1"
        width="19.461832"
@@ -1268,10 +1307,11 @@
            x="282.84271"
            y="118.42805"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.12503334px;line-height:0;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.125px;line-height:0;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7-5-3">FRONTEND</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86120033px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1-7-9" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara26-1-7-9" /></flowRoot>
+    <g
        id="g98126"
        transform="translate(0,2.1166651)">
       <flowRoot
@@ -1290,7 +1330,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-6-9-5-1-7-2-9">html</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-6" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-6" /></flowRoot>
+      <g
          id="g98116">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1324,7 +1365,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-3-39-9-6-0-6-3">css</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-90" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-90" /></flowRoot>
+      <g
          id="g98112">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1356,7 +1398,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-79">javascript</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-79">javascript</flowPara></flowRoot>
+      <g
          id="g98108">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1390,7 +1433,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-3-6-7-37-0-6-2">typescript</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-1" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-1" /></flowRoot>
+      <g
          id="g98104">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1424,7 +1468,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-7-5-8-6-6-3-85">bootstrap</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-12" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-12" /></flowRoot>
+      <g
          id="g98100">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1458,7 +1503,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-15-7-7-6-8-6-2-2-8-6">jasmine</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-7" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-7" /></flowRoot>
+      <g
          id="g98096">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1492,7 +1538,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-6-5-2-9-4-6-3-5">angular</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-3" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-3" /></flowRoot>
+      <g
          id="g98092">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1524,7 +1571,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-0">vue.js</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-0">vue.js</flowPara></flowRoot>
+      <g
          id="g98084">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1558,7 +1606,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-3-3-6-1-1-99-9-3-84">mfp</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-8" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-8" /></flowRoot>
+      <g
          id="g98080">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1590,7 +1639,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-7">react</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-7">react</flowPara></flowRoot>
+      <g
          id="g98088">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1627,8 +1677,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7-5-3-4">BACKEND</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86120033px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1-7-9-5" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara26-1-7-9-5" /></flowRoot>
+    <g
        id="g97945"
        transform="translate(0,2.116667)">
       <flowRoot
@@ -1645,7 +1696,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-7">mysql</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-7">mysql</flowPara></flowRoot>
+      <g
          id="g97936">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1679,7 +1731,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-3-39-9-6-0-6-2">postgresql</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-8" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-8" /></flowRoot>
+      <g
          id="g97932">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1711,7 +1764,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-6">mssql</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-6">mssql</flowPara></flowRoot>
+      <g
          id="g97928">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1745,7 +1799,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-3-6-7-37-0-6-1">mongo db</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-9" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-9" /></flowRoot>
+      <g
          id="g97924">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1777,7 +1832,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-8">redis</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-8">redis</flowPara></flowRoot>
+      <g
          id="g97920">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1809,7 +1865,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-6">rabbit mq</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-6">rabbit mq</flowPara></flowRoot>
+      <g
          id="g97916">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1841,7 +1898,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-0">cloudant</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-0">cloudant</flowPara></flowRoot>
+      <g
          id="g97912"
          transform="translate(0,0.52916667)">
         <path
@@ -1874,7 +1932,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-4">json</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-4">json</flowPara></flowRoot>
+      <g
          id="g97904">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1906,7 +1965,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-4">xml</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-4">xml</flowPara></flowRoot>
+      <g
          id="g97900">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1938,7 +1998,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-74">restful</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-74">restful</flowPara></flowRoot>
+      <g
          id="g97908">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1975,8 +2036,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7-5-3-0">DEVOPS</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86120033px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1-7-9-2" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara26-1-7-9-2" /></flowRoot>
+    <g
        id="g97896"
        transform="translate(0,2.116668)">
       <flowRoot
@@ -1993,7 +2055,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-7-1">docker</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-7-1">docker</flowPara></flowRoot>
+      <g
          id="g97887">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2025,7 +2088,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-8-1">swarm</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-8-1">swarm</flowPara></flowRoot>
+      <g
          id="g97874">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2057,7 +2121,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-6-7">kubernetes</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-3-2-2-4-6-9-6-7">kubernetes</flowPara></flowRoot>
+      <g
          id="g97861">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2089,7 +2154,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-9-6">api connect</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-9-0-6-8-3-7-9-6">api connect</flowPara></flowRoot>
+      <g
          id="g97848">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2121,7 +2187,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-8-5">ibm cloud</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-4-2-5-6-4-7-8-5">ibm cloud</flowPara></flowRoot>
+      <g
          id="g97835">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2153,7 +2220,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-6-1">linux</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-07-4-1-2-1-4-0-5-2-6-1">linux</flowPara></flowRoot>
+      <g
          id="g97822">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2185,7 +2253,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-0-7">microsoft</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-51-4-3-0-7">microsoft</flowPara></flowRoot>
+      <g
          id="g97809">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2217,7 +2286,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-4-9">monitoring</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-4-9">monitoring</flowPara></flowRoot>
+      <g
          id="g97783">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2249,7 +2319,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-4-5">scripting</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-4-5">scripting</flowPara></flowRoot>
+      <g
          id="g97770">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2281,7 +2352,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-74-6">vmachine</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-74-6">vmachine</flowPara></flowRoot>
+      <g
          id="g97796">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2313,7 +2385,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-3">español</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-7-4-6-4-0-3">español</flowPara></flowRoot>
+      <g
          id="g114664">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2345,7 +2418,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-1">ingles</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-7-0-1-1-4-1">ingles</flowPara></flowRoot>
+      <g
          id="g114651">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2382,8 +2456,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7-5-3-3-6">IDIOMAS</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86120033px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1-7-9-8-1" /></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara26-1-7-9-8-1" /></flowRoot>
+    <rect
        style="fill:#4d4d4d;stroke-width:0.0481404"
        id="rect28-12-1-3-5-6"
        width="18"
@@ -2405,8 +2480,9 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="flowPara22-7-5-3-3-6-8">OTROS</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.86120033px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="flowPara26-1-7-9-8-1-4" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="flowPara26-1-7-9-8-1-4" /></flowRoot>
+    <g
        id="g96890"
        transform="translate(0,6.9992707)">
       <flowRoot
@@ -2425,7 +2501,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-1-1-4-4-6-5-2-9-2-2-5-4-6">raspberry</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-3" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-8-1-9-3-6-9-6-4-5-0-0-3-3" /></flowRoot>
+      <g
          id="g96880">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2459,7 +2536,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
            id="flowPara22-7-5-4-7-0-2-8-4-4-3-3-6-1-1-99-9-3-3">electrónica</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.8612px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-2" /></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-9-7-4-8-2" /></flowRoot>
+      <g
          id="g96866">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2491,7 +2569,8 @@
              y="118.42805"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.125px;line-height:1;font-family:Raleway;-inkscape-font-specification:Raleway;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.757815px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-71">arduino</flowPara></flowRoot>      <g
+           id="flowPara26-1-7-0-6-3-0-8-5-1-3-3-7-2-5-6-9-71">arduino</flowPara></flowRoot>
+      <g
          id="g96894">
         <path
            style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.170997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="216mm"
    height="279mm"
    viewBox="0 0 216 279"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="03.svg">
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="03.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,18 +25,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142137"
-     inkscape:cx="423.30981"
-     inkscape:cy="898.00382"
+     inkscape:zoom="1.2316035"
+     inkscape:cx="423.83769"
+     inkscape:cy="284.18236"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -67,84 +70,185 @@
            x="32.526913"
            y="201.15955"
            style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3994" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="6.6465626"
-       y="35.930748"
-       id="text4008-4-5-64"
-       inkscape:transform-center-x="2.1166667"><tspan
-         sodipodi:role="line"
-         x="6.6465626"
-         y="35.930748"
-         style="font-size:2.82222223px;stroke-width:0.26458332"
-         id="tspan4010-6-1-8">2004/04 - 2012/04</tspan><tspan
-         sodipodi:role="line"
-         x="6.6465626"
-         y="49.159912"
-         style="font-size:3.52777767px;stroke-width:0.26458332"
-         id="tspan4014-2-9-8" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4105-1-5-7-9-04-8-5-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-6.1744352,-75.043043)"><flowRegion
-         id="flowRegion4107-1-2-8-9-3-1-1-2"
-         style="font-size:16px"><rect
-           id="rect4109-4-3-7-1-6-9-6-9"
-           width="118.56956"
-           height="94.435028"
-           x="48.08326"
-           y="369.45096"
-           style="font-size:16px" /></flowRegion><flowPara
-         style="font-weight:bold;font-size:13.33333397px"
-         id="flowPara4111-8-2-7-3-2-2-6-0-7">Mercatus</flowPara><flowPara
-         style="font-weight:bold;font-size:13.33333397px"
-         id="flowPara1362">Chile SpA</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4105-1-58-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,24.86378,-69.535322)"><flowRegion
-         id="flowRegion4107-1-4-0"
-         style="font-size:16px"><rect
-           id="rect4109-4-1-9"
-           width="652.33398"
-           height="328.6503"
-           x="48.08326"
-           y="369.45096"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara1112"
-         style="font-size:13.33333397px;text-align:justify;text-anchor:start">I started working as a Software Developer using Microsoft technologies and managing a Linux based network.   One of the projects developed during this period was a Web Rapid Application Development (RAD), written mainly in Javascript, using ASP.Net to access to persistence tiers implemented in SQL Server 2005.   We developed multiple projects using this tool in different companies in the area.   In relation to with Network Administration I setup and managed multiple services required by the office using servers that run on VMWare and RedHAT</flowPara><flowPara
-         id="flowPara917"
-         style="font-size:13.33333397px;text-align:justify;text-anchor:start">In the year 2012 the company was acquired by the norwegian company Mercatus, so we migrated our services from Linux to Microsoft, maintaining the use of VMWare and ESXi.   In this period we developed web projects using the .Net framework 3.5 and 4.0 with SQL Server 2005 and 2008 also Reporting Services and DotNetNuke.   Also, I participated in the design and implementation of best practices and services for continuous improvement for our workflow, using Scrum and Continuous Integration</flowPara><flowPara
-         id="flowPara919"
-         style="font-size:13.33333397px;text-align:justify;text-anchor:start">In the year 2010 I left the team, but I kept working remotely, maintaining and adding new features to the systems developed before, using Microsoft SQL Server 2005, 2008 and Reporting Services</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4105-1-5-7-9-04-8-5-9-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,24.645058,-75.043047)"><flowRegion
-         id="flowRegion4107-1-2-8-9-3-1-1-4-2"
-         style="font-size:16px"><rect
-           id="rect4109-4-3-7-1-6-9-6-4-7"
-           width="625.56512"
-           height="36.452278"
-           x="48.08326"
-           y="369.45096"
-           style="font-size:16px" /></flowRegion><flowPara
-         style="font-weight:bold;font-size:13.33333397px"
-         id="flowPara4111-8-2-7-3-2-2-6-2-7">Software Engineer</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4105-1-58-6-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,24.558914,11.311069)"><flowRegion
-         id="flowRegion4107-1-4-5-46"
-         style="font-size:16px"><rect
-           id="rect4109-4-1-3-6"
-           width="630.63556"
-           height="24.270597"
-           x="48.08326"
-           y="369.45096"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara4111-8-7-2-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Visual Studio .Net / Linux / Microsoft / VMWare  / ESXi / Scrum / Subversion / Mono / RAD / Continuous Integration</flowPara></flowRoot>  </g>
+         id="flowPara3994" /></flowRoot>
+    <g
+       id="g1277">
+      <g
+         id="g972"
+         transform="translate(-0.52916667,55.562529)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="6.6465626"
+           y="35.930748"
+           id="text4008-4-5-64"
+           inkscape:transform-center-x="2.1166667"><tspan
+             sodipodi:role="line"
+             x="6.6465626"
+             y="35.930748"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             id="tspan4010-6-1-8">2004/04 - 2012/04</tspan><tspan
+             sodipodi:role="line"
+             x="6.6465626"
+             y="49.159874"
+             id="tspan4014-2-9-8" /></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-5-7-9-04-8-5-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-6.1744352,-75.043043)"><flowRegion
+             id="flowRegion4107-1-2-8-9-3-1-1-2"
+             style="font-size:16px"><rect
+               id="rect4109-4-3-7-1-6-9-6-9"
+               width="118.56956"
+               height="94.435028"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-0-7">Mercatus</flowPara><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara1362">Chile SpA</flowPara></flowRoot>
+      </g>
+      <g
+         id="g1251">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-58-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.334613,-13.972793)"><flowRegion
+             id="flowRegion4107-1-4-0"
+             style="font-size:16px"><rect
+               id="rect4109-4-1-9"
+               width="652.33398"
+               height="328.6503"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara1112"
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">I started working as a Software Developer using Microsoft technologies and managing a Linux based network.   One of the projects developed during this period was a Web Rapid Application Development (RAD), written mainly in Javascript, using ASP.Net to access to persistence tiers implemented in SQL Server 2005.   We developed multiple projects using this tool in different companies in the area.   In relation to with Network Administration I setup and managed multiple services required by the office using servers that run on VMWare and RedHAT</flowPara><flowPara
+             id="flowPara917"
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">In the year 2012 the company was acquired by the norwegian company Mercatus, so we migrated our services from Linux to Microsoft, maintaining the use of VMWare and ESXi.   In this period we developed web projects using the .Net framework 3.5 and 4.0 with SQL Server 2005 and 2008 also Reporting Services and DotNetNuke.   Also, I participated in the design and implementation of best practices and services for continuous improvement for our workflow, using Scrum and Continuous Integration</flowPara><flowPara
+             id="flowPara919"
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">In the year 2010 I left the team, but I kept working remotely, maintaining and adding new features to the systems developed before, using Microsoft SQL Server 2005, 2008 and Reporting Services</flowPara></flowRoot>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-5-7-9-04-8-5-9-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.115891,-19.480518)"><flowRegion
+             id="flowRegion4107-1-2-8-9-3-1-1-4-2"
+             style="font-size:16px"><rect
+               id="rect4109-4-3-7-1-6-9-6-4-7"
+               width="625.56512"
+               height="36.452278"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-2-7">Software Engineer</flowPara></flowRoot>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-58-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.029747,66.873598)"><flowRegion
+             id="flowRegion4107-1-4-5-46"
+             style="font-size:16px"><rect
+               id="rect4109-4-1-3-6"
+               width="653.97009"
+               height="41.948269"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara4111-8-7-2-1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Visual Studio .Net / Linux / Microsoft / VMWare  / ESXi / Scrum / Subversion / Mono / RAD / Continuous Integration</flowPara></flowRoot>
+      </g>
+    </g>
+    <g
+       id="g1337"
+       transform="translate(0.1467114)">
+      <g
+         id="g1314">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="6.4362121"
+           y="43.997982"
+           id="text4008-4-5-6-1"
+           inkscape:transform-center-x="2.1166667"><tspan
+             sodipodi:role="line"
+             x="6.4362121"
+             y="43.997982"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             id="tspan4010-6-1-6-0">2004/08 - 2008/01</tspan><tspan
+             sodipodi:role="line"
+             x="6.4362121"
+             y="57.227108"
+             id="tspan4014-2-9-5-0" /></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-5-7-9-04-8-5-3-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-6.3847864,-72.86272)"><flowRegion
+             id="flowRegion4107-1-2-8-9-3-1-1-6-9"
+             style="font-size:16px"><rect
+               id="rect4109-4-3-7-1-6-9-6-7-4"
+               width="111.49849"
+               height="94.435028"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-5-8">Universidad Austral de Chile</flowPara></flowRoot>
+      </g>
+      <g
+         id="g4341"
+         transform="translate(-0.14492676,-185.87148)">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-58-1-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.802325,118.51648)"><flowRegion
+             id="flowRegion4107-1-4-5-3"
+             style="font-size:16px"><rect
+               id="rect4109-4-1-6-5"
+               width="649.79852"
+               height="149.72287"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara4111-8-7-9-1"
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">Teacher for the class 'Technological Research Seminar', dictated every second semester in the Computer Engineering program in the Puerto Montt Campus. During these years, we investigated robotics, creating our own robots, using computer parts, our own electronics and mechanics, working in a Linux environment.   We designed an open architecture, creating apps to control our robots and drivers to interact with the hardware.   In time we created new versions of this platform, designing a framework to develop projects that require hardware integration, using Linux, called Monobotics, based on Mono</flowPara></flowRoot>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-5-7-9-04-8-5-9-3-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.583603,113.00876)"><flowRegion
+             id="flowRegion4107-1-2-8-9-3-1-1-4-9-8"
+             style="font-size:16px"><rect
+               id="rect4109-4-3-7-1-6-9-6-4-2-7"
+               width="625.56512"
+               height="36.452278"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-2-6-5">Teacher</flowPara></flowRoot>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-58-6-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.497468,155.45967)"><flowRegion
+             id="flowRegion4107-1-4-5-32"
+             style="font-size:16px"><rect
+               id="rect4109-4-1-3-7"
+               width="630.63556"
+               height="24.270597"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara4111-8-7-2-8"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Linux / PCBot / Mono / Monobotics / Hardware / Robotica / Drivers</flowPara></flowRoot>
+      </g>
+    </g>
+  </g>
 </svg>

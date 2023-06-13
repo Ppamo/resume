@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="216mm"
    height="279mm"
    viewBox="0 0 216 279"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="02.svg">
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="02.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,17 +26,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0000001"
-     inkscape:cx="229.01638"
-     inkscape:cy="822.98525"
+     inkscape:cx="228.99998"
+     inkscape:cy="422.99996"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -67,14 +70,15 @@
            x="32.526913"
            y="201.15955"
            style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3994" /></flowRoot>    <g
+         id="flowPara3994" /></flowRoot>
+    <g
        id="g4154"
-       transform="translate(0,1.3441151)">
+       transform="translate(0.30706153,37.86789)">
       <g
          id="g4117">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="6.5944066"
            y="99.072357"
            id="text4008-4-5"
@@ -82,12 +86,11 @@
              sodipodi:role="line"
              x="6.5944066"
              y="99.072357"
-             style="font-size:2.82222223px;stroke-width:0.26458332"
+             style="font-size:2.82222px;stroke-width:0.264583"
              id="tspan4010-6-1">2011/05 - 2011/10</tspan><tspan
              sodipodi:role="line"
              x="6.5944066"
-             y="112.30152"
-             style="font-size:3.52777767px;stroke-width:0.26458332"
+             y="112.30148"
              id="tspan4014-2-9" /></text>
         <flowRoot
            xml:space="preserve"
@@ -102,8 +105,9 @@
                x="48.08326"
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
-             id="flowPara4111-8-2-7-3-2-2-6">Idontek</flowPara></flowRoot>      </g>
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6">Idontek</flowPara></flowRoot>
+      </g>
       <g
          id="g4131">
         <flowRoot
@@ -120,7 +124,8 @@
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
              id="flowPara4111-8-7"
-             style="font-size:13.33333397px;text-align:justify;text-anchor:start">Co-founder of this Startup, where I designed and setup an electronic platform to generate and manage projects using Open Source tools like SugarCRM, Subversion and Redmine.   The core is written in .Net.   The Startup was part of the Microsoft's BizSpark program</flowPara></flowRoot>        <flowRoot
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">Co-founder of this Startup, where I designed and setup an electronic platform to generate and manage projects using Open Source tools like SugarCRM, Subversion and Redmine.   The core is written in .Net.   The Startup was part of the Microsoft's BizSpark program</flowPara></flowRoot>
+        <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-5-7-9-04-8-5-9"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -133,8 +138,9 @@
                x="48.08326"
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
-             id="flowPara4111-8-2-7-3-2-2-6-2">Technical Leader</flowPara></flowRoot>        <flowRoot
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-2">Technical Leader</flowPara></flowRoot>
+        <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-58-6"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -148,16 +154,18 @@
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
              id="flowPara4111-8-7-2"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">BizSpark / Visual Studio .Net / SugarCRM / Subversion / Redmine</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">BizSpark / Visual Studio .Net / SugarCRM / Subversion / Redmine</flowPara></flowRoot>
+      </g>
     </g>
     <g
-       id="g4264"
-       transform="translate(0,1.4743526)">
+       id="g1463"
+       transform="translate(-0.04574275,37.570851)">
       <g
-         id="g4227">
+         id="g4227"
+         transform="translate(0,1.4743526)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="6.5771232"
            y="131.41371"
            id="text4008-4-5-6"
@@ -165,12 +173,11 @@
              sodipodi:role="line"
              x="6.5771232"
              y="131.41371"
-             style="font-size:2.82222223px;stroke-width:0.26458332"
+             style="font-size:2.82222px;stroke-width:0.264583"
              id="tspan4010-6-1-6">2010/04 - 2013/05</tspan><tspan
              sodipodi:role="line"
              x="6.5771232"
-             y="144.64288"
-             style="font-size:3.52777767px;stroke-width:0.26458332"
+             y="144.64284"
              id="tspan4014-2-9-5" /></text>
         <flowRoot
            xml:space="preserve"
@@ -185,15 +192,16 @@
                x="48.08326"
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
-             id="flowPara4111-8-2-7-3-2-2-6-5">BellTech S.A.</flowPara></flowRoot>      </g>
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-5">BellTech S.A.</flowPara></flowRoot>
+      </g>
       <g
-         id="g4241">
+         id="g1440">
         <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-58-1"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.784687,31.23927)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,24.784687,32.713623)"><flowRegion
              id="flowRegion4107-1-4-5"
              style="font-size:16px"><rect
                id="rect4109-4-1-6"
@@ -203,11 +211,12 @@
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
              id="flowPara4111-8-7-9"
-             style="font-size:13.33333397px;text-align:justify;text-anchor:start">I worked as an External Engineer, developing software projects in different departments.   Most of the projects were developed using framework .Net, writing data providers used to connect the auto service machines from Belltech with the client's data sources.   I also worked with the Interactive Voice Response department, developing tools to store and convert data generated by the systems.   I also designed and implemented a Continuous Integration circuit using TFS, Teamcity, Redmine and Moodle</flowPara></flowRoot>        <flowRoot
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">I worked as an External Engineer, developing software projects in different departments.   Most of the projects were developed using framework .Net, writing data providers used to connect the auto service machines from Belltech with the client's data sources.   I also worked with the Interactive Voice Response department, developing tools to store and convert data generated by the systems.   I also designed and implemented a Continuous Integration circuit using TFS, Teamcity, Redmine and Moodle</flowPara></flowRoot>
+        <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-5-7-9-04-8-5-9-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.583603,25.731545)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,24.583603,27.205898)"><flowRegion
              id="flowRegion4107-1-2-8-9-3-1-1-4-9"
              style="font-size:16px"><rect
                id="rect4109-4-3-7-1-6-9-6-4-2"
@@ -216,113 +225,33 @@
                x="48.08326"
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
-             id="flowPara4111-8-2-7-3-2-2-6-2-6">External Software Engineer</flowPara></flowRoot>        <flowRoot
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-2-6">External Software Engineer</flowPara></flowRoot>
+        <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-58-6-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.497468,63.437476)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,24.497468,64.911829)"><flowRegion
              id="flowRegion4107-1-4-5-49"
              style="font-size:16px"><rect
                id="rect4109-4-1-3-0"
-               width="630.63556"
-               height="24.270597"
+               width="653.63556"
+               height="35.270599"
                x="48.08326"
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
              id="flowPara4111-8-7-2-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Visual Studio .Net / SOAP / APIs / MySQL / ATM / TeamCity / Continuous Integration / Redmine / Moodle</flowPara></flowRoot>      </g>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Visual Studio .Net / SOAP / APIs / MySQL / ATM / TeamCity / Continuous Integration / Redmine / Moodle</flowPara></flowRoot>
+      </g>
     </g>
     <g
-       id="g4364"
-       transform="translate(0,-37.570834)">
-      <g
-         id="g4327">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="6.5811386"
-           y="229.86946"
-           id="text4008-4-5-6-1"
-           inkscape:transform-center-x="2.1166667"><tspan
-             sodipodi:role="line"
-             x="6.5811386"
-             y="229.86946"
-             style="font-size:2.82222223px;stroke-width:0.26458332"
-             id="tspan4010-6-1-6-0">2004/08 - 2008/01</tspan><tspan
-             sodipodi:role="line"
-             x="6.5811386"
-             y="243.09863"
-             style="font-size:3.52777767px;stroke-width:0.26458332"
-             id="tspan4014-2-9-5-0" /></text>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-5-7-9-04-8-5-3-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,-6.2398596,113.00876)"><flowRegion
-             id="flowRegion4107-1-2-8-9-3-1-1-6-9"
-             style="font-size:16px"><rect
-               id="rect4109-4-3-7-1-6-9-6-7-4"
-               width="118.56956"
-               height="94.435028"
-               x="48.08326"
-               y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
-             id="flowPara4111-8-2-7-3-2-2-6-5-8">Universidad Austral de Chile</flowPara></flowRoot>      </g>
-      <g
-         id="g4341">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-58-1-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.802325,118.51648)"><flowRegion
-             id="flowRegion4107-1-4-5-3"
-             style="font-size:16px"><rect
-               id="rect4109-4-1-6-5"
-               width="649.79852"
-               height="149.72287"
-               x="48.08326"
-               y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             id="flowPara4111-8-7-9-1"
-             style="font-size:13.33333397px;text-align:justify;text-anchor:start">Teacher for the class 'Technological Research Seminar', dictated every second semester in the Computer Engineering program in the Puerto Montt Campus. During these years, we investigated robotics, creating our own robots, using computer parts, our own electronics and mechanics, working in a Linux environment.   We designed an open architecture, creating apps to control our robots and drivers to interact with the hardware.   In time we created new versions of this platform, designing a framework to develop projects that require hardware integration, using Linux, called Monobotics, based on Mono</flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-5-7-9-04-8-5-9-3-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.583603,113.00876)"><flowRegion
-             id="flowRegion4107-1-2-8-9-3-1-1-4-9-8"
-             style="font-size:16px"><rect
-               id="rect4109-4-3-7-1-6-9-6-4-2-7"
-               width="625.56512"
-               height="36.452278"
-               x="48.08326"
-               y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
-             id="flowPara4111-8-2-7-3-2-2-6-2-6-5">Teacher</flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4105-1-58-6-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.497468,155.45967)"><flowRegion
-             id="flowRegion4107-1-4-5-32"
-             style="font-size:16px"><rect
-               id="rect4109-4-1-3-7"
-               width="630.63556"
-               height="24.270597"
-               x="48.08326"
-               y="369.45096"
-               style="font-size:16px" /></flowRegion><flowPara
-             id="flowPara4111-8-7-2-8"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Linux / PCBot / Mono / Monobotics / Hardware / Robotica / Drivers</flowPara></flowRoot>      </g>
-    </g>
-    <g
-       id="g4044">
+       id="g4044"
+       transform="translate(1.534306,35.491174)">
       <g
          id="g4004">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="6.5942941"
            y="36.021591"
            id="text4008-4-5-0"
@@ -330,12 +259,11 @@
              sodipodi:role="line"
              x="6.5942941"
              y="36.021591"
-             style="font-size:2.82222223px;stroke-width:0.26458332"
+             style="font-size:2.82222px;stroke-width:0.264583"
              id="tspan4010-6-1-09">2013/08 - 2016/12</tspan><tspan
              sodipodi:role="line"
              x="6.5942941"
-             y="49.250759"
-             style="font-size:2.82222223px;stroke-width:0.26458332"
+             y="49.250717"
              id="tspan4014-2-9-4" /></text>
         <flowRoot
            xml:space="preserve"
@@ -350,10 +278,11 @@
                x="48.08326"
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
+             style="font-weight:bold;font-size:13.3333px"
              id="flowPara4111-8-2-7-3-2-2-6-0">Schibsted</flowPara><flowPara
              id="flowPara3936"
-             style="font-weight:bold;font-size:13.33333397px">Chile SpA</flowPara></flowRoot>      </g>
+             style="font-weight:bold;font-size:13.3333px">Chile SpA</flowPara></flowRoot>
+      </g>
       <g
          id="g4019">
         <flowRoot
@@ -370,7 +299,8 @@
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
              id="flowPara4111-8-7-0"
-             style="font-size:13.33333397px;text-align:justify;text-anchor:start">Schibsted is an Norwegian international media group.   In Chile, it runs the Yapo.cl online classified ads site.   I worked developing and integrating new features to the site and improving the internal software development flow.   The site core is written mainly in C and PHP, and which at the time was being migrated to a model of microservices written in Golang with a REST interface.   The team worked in interdiciplinary and auto-organizated groups using some artifacts and ceremonies from Scrum like the daily meeting, sprints, retrospective, etc.   We also used a Kanban to focus, visualize and comunicate the sprint advances.   We used a process to deliver to production environment that includes automated testing and manual revision in Develop and QA environments, and continuous integration using Jenkins integrated to Gitlab using Docker</flowPara></flowRoot>        <flowRoot
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">Schibsted is an Norwegian international media group.   In Chile, it runs the Yapo.cl online classified ads site.   I worked developing and integrating new features to the site and improving the internal software development flow.   The site core is written mainly in C and PHP, and which at the time was being migrated to a model of microservices written in Golang with a REST interface.   The team worked in interdiciplinary and auto-organizated groups using some artifacts and ceremonies from Scrum like the daily meeting, sprints, retrospective, etc.   We also used a Kanban to focus, visualize and comunicate the sprint advances.   We used a process to deliver to production environment that includes automated testing and manual revision in Develop and QA environments, and continuous integration using Jenkins integrated to Gitlab using Docker</flowPara></flowRoot>
+        <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-5-7-9-04-8-5-9-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -383,8 +313,9 @@
                x="48.08326"
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
-             style="font-weight:bold;font-size:13.33333397px"
-             id="flowPara4111-8-2-7-3-2-2-6-2-1">Software Engineer</flowPara></flowRoot>        <flowRoot
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-2-1">Software Engineer</flowPara></flowRoot>
+        <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-58-6-4-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -398,9 +329,98 @@
                y="369.45096"
                style="font-size:16px" /></flowRegion><flowPara
              id="flowPara4111-8-7-2-21"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.66666698px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Scrum / Agile / Git / <flowSpan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Scrum / Agile / Git / <flowSpan
    style="text-align:start;text-anchor:start"
-   id="flowSpan871">Jenkins</flowSpan> / Docker / NodeJS / Golang / Python / C / RabbitMQ / PostgreSQL</flowPara></flowRoot>      </g>
+   id="flowSpan871">Jenkins</flowSpan> / Docker / NodeJS / Golang / Python / C / RabbitMQ / PostgreSQL</flowPara></flowRoot>
+      </g>
+    </g>
+    <g
+       id="g2731"
+       transform="translate(1.754419,-217.1381)">
+      <g
+         id="g2693">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="6.3447776"
+           y="260.50583"
+           id="text4008-4-5-7"
+           inkscape:transform-center-x="2.1166667"><tspan
+             sodipodi:role="line"
+             x="6.3447776"
+             y="260.50583"
+             style="font-size:2.82222px;stroke-width:0.264583"
+             id="tspan4010-6-1-0">2015/03 - 2016/12</tspan><tspan
+             sodipodi:role="line"
+             x="6.3447776"
+             y="273.73495"
+             id="tspan4014-2-9-9" /></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-5-7-9-04-8-5-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-6.232804,144.12886)"><flowRegion
+             id="flowRegion4107-1-2-8-9-3-1-1-2"
+             style="font-size:16px"><rect
+               id="rect4109-4-3-7-1-6-9-6-5"
+               width="118.56956"
+               height="94.435028"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-8">Corporación</flowPara><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara2651">de Desarrollo Tecnológico </flowPara></flowRoot>
+      </g>
+      <g
+         id="g2707">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-58-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.323391,149.63659)"><flowRegion
+             id="flowRegion4107-1-4-0"
+             style="font-size:16px"><rect
+               id="rect4109-4-1-4"
+               width="642.3739"
+               height="64.51651"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara4111-8-7-7"
+             style="font-size:13.3333px;text-align:justify;text-anchor:start">I evaluated proposals for technological projects submitted to multiple CORFO innovation contests, analyzing its technical, financial and commercial merit, to determine the viability and adherence to the contest's bases</flowPara></flowRoot>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-5-7-9-04-8-5-9-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.326919,144.12886)"><flowRegion
+             id="flowRegion4107-1-2-8-9-3-1-1-4-5"
+             style="font-size:16px"><rect
+               id="rect4109-4-3-7-1-6-9-6-4-5"
+               width="625.56512"
+               height="36.452278"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:13.3333px"
+             id="flowPara4111-8-2-7-3-2-2-6-2-3">External Evaluator for Innovation Projects</flowPara></flowRoot>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4105-1-58-6-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,24.497468,165.97158)"><flowRegion
+             id="flowRegion4107-1-4-5-0"
+             style="font-size:16px"><rect
+               id="rect4109-4-1-3-2"
+               width="630.63556"
+               height="24.270597"
+               x="48.08326"
+               y="369.45096"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara4111-8-7-2-2"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:justify;text-anchor:start">Projects evaluation / CORFO / Innovation</flowPara></flowRoot>
+      </g>
     </g>
   </g>
 </svg>

@@ -64,7 +64,7 @@ I enjoy design and implementation of technological projects, especially over the
 
 - **June 2022 - March 2023 - External Software Engineer - Walmart Chile**
   - Description:
-    - I participate in the design and development of a set of microservices writen in Golang, orchastrated in Kubernetes.   We also integrated different technologies with the services, like Microsoft SQL Server, Redis and Kafka.   Every service should comply with the company's software quality model.
+    - I participate in the design and development of a set of microservices writen in Golang and orchestrated with Kubernetes.   We also integrated different technologies with the services, like Microsoft SQL Server, Redis and Kafka.   Every service should comply with the company's software quality model.
     - Tasks:
       - Development of a cronjob that handles DPC files to the NCR service
       - Write of a new suscriber service integrated with Microsoft SQL Server

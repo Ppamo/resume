@@ -75,6 +75,16 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 
 ## Experiencia:
 
+- **Junio 2022 - Marzo 2023 - Ingeniero de Software Externo - Walmart Chile**
+  - Descripción:
+    - Participé en el diseño y desarrollo de un conjunto de microservicios desarrollados principalmente en Golang, desplegados usando mecanismos propietarios y orquestados en Kubernetes.   El trabajo también implicó integración con distintas tecnologías, por ejemplo Microsoft SQL Server, Redis o Kafka, y asegurarnos que cada microservicios cumplía con los estándares del modelo de calidad de software que Walmart impulsa.
+    - Tareas:
+      - Desarrollo de un cronjob que mueve los archivos desde el DPC al manejador dr NCR
+      - Reescritura del suscriptor e integración con Microsoft SQL Server
+      - POC de Integración servicio Java con Redis Cluster
+      - Conexión de servicios con Microsoft SQL Server
+      - Contenerización de las aplicaciones de NCR
+      - Configuración de cluster local de Kubernetes de pruebas
 - **Noviembre 2017 - Febrero 2022 - Ingeniero de Software - IBM**
   - Descripción:
     - Participo en múltiples proyectos para IBM, ejecutándose cada uno en distintos clientes, muchos de ellos bancos.   Todos los proyectos se desarrollaron para la Nube, y compartían una arquitectura similar, un cliente web o mobile que consumía apis desplegadas en API Connect que a su vez componían o agregaban los resultados de distintos microservicios orquestados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente, calcular volumetría y realizar ajustes de rendimiento.   También diseñé e implementé flujos de desarrollo para el equipo y para los clientes, y herramientas para automatizar algunos de estos procesos.

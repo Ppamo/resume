@@ -62,6 +62,16 @@ I enjoy design and implementation of technological projects, especially over the
 
 ## Experience:
 
+- **June 2022 - March 2023 - External Software Engineer - Walmart Chile**
+  - Description:
+    - I participate in the design and development of a set of microservices writen in Golang, orchastrated in Kubernetes.   We also integrated different technologies with the services, like Microsoft SQL Server, Redis and Kafka.   Every service should comply with the company's software quality model.
+    - Tasks:
+      - Development of a cronjob that handles DPC files to the NCR service
+      - Write of a new suscriber service integrated with Microsoft SQL Server
+      - POC of Java services integration with Redis Cluster
+      - Connection of services with Microsoft SQL Server
+      - Contenerization of third parties apps
+      - Setup of local Kubernetes cluster for testing
 - **November 2017 - February 2022 - Software Engineer - IBM**
   - Description:
     - I participate in multiple software development projects at IBM, each executed for different clients, most of them banks.   All of it designed for the Cloud with a common architecture, a Web or Mobile client, APIs running on API Connect and Microservices orchrestated with Kubernetes.   I have not only developed software, but also managed servers and clusters, fine-tune performance, calculated volumetry and integrated different services in the customer dependencies.   I also designed and implemented development flows and tools for the team and for the clients.

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP=pdfbuilder
-VERSION=1.0.0
+VERSION=1.0.3
 
 TEMP=.tmp
 if [ "$COLOR" != "false" ]
@@ -13,21 +13,27 @@ then
 	RESET='\e[39m'
 fi
 
+REBUILD=${REBUILD:=0}
 IMAGENAME=ppamo.$APP
 IMAGE=$IMAGENAME:$VERSION
-BASEPATH=${PWD#/cygdrive}/$(dirname $0)/..
-VOLUMES="--volume $BASEPATH:/data"
+BASEPATH=$(git rev-parse --show-toplevel)
+BASEPATH=${BASEPATH#/cygdrive}
+VOLUMES=$(printf -- '--volume %s:/res' "$BASEPATH")
 DMName=default
 
 run(){
 	printf -- $YELLOW"+ Running container for $BLUE$IMAGE$YELLOW:\n"$RESET
-	docker run -t --rm --name $APP \
+	docker run --platform linux/amd64 -ti --rm --name $APP \
 		$VOLUMES \
-		$IMAGE 
+		$IMAGE
 	printf -- $GREEN"- Done!\n"$RESET
 }
 
 build(){
+	if [ $REBUILD -eq 1 ]; then
+		printf -- $YELLOW"+ Removing old image $BLUE$IMAGE$YELLOW:\n"$RESET
+		docker rmi $IMAGE
+	fi
 	printf -- $YELLOW"+ Building image $BLUE$IMAGE$YELLOW:\n"$RESET
 	# check if the docker image exists
 	docker images --format "{{.Repository}}:{{.Tag}}" | \
@@ -35,7 +41,7 @@ build(){
 	if [ $? -ne 0 ]
 	then
 		# create the docker image
-		docker build -t $IMAGE builder/docker/
+		docker build --progress plain --platform linux/amd64 -t $IMAGE builder/docker/
 		if [ $? -ne 0 ]
 		then
 			printf -- $RED"- ERROR:
@@ -63,8 +69,10 @@ payload(){
 		docker-machine ls $DMName | grep $DMName > /dev/null 2>&1
 		DM=$?
 	fi
-
-	chcon -Rt svirt_sandbox_file_t $BASEPATH > /dev/null 2>&1
+	which chcon > /dev/null 2>&1
+	if [ $? -eq 0 ]; then
+		chcon -Rt svirt_sandbox_file_t $BASEPATH > /dev/null 2>&1
+	fi
 	printf -- $GREEN"- Done!\n"$RESET
 }
 
@@ -100,12 +108,6 @@ Is the docker daemon running and environment configured in this host?\n"$RESET
 	if [ $? -eq 0 ]
 	then
 		printf -- $RED"- The name $APP is already in use!\n"$RESET
-		exit -1
-	fi
-	# check if the Dockerfile is in the folder
-	if [ ! -f builder/docker/Dockerfile ]
-	then
-		printf -- $RED"- Dockerfile is not present, please run the script from right folder\n"$RESET
 		exit -1
 	fi
 	printf -- $GREEN"- Done!\n"$RESET

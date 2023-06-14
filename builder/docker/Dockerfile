@@ -1,7 +1,8 @@
-FROM centos:centos7.9.2009
+FROM ubuntu:mantic
 MAINTAINER Ppamo <pablo@ppamo.cl>
 
-RUN yum -y update && yum -y install inkscape ghostscript
+RUN apt update && apt -y upgrade && apt install -y inkscape ghostscript
 COPY convert.sh /bin/convert.sh
-WORKDIR /data
-CMD ["sh", "convert.sh"]
+RUN chmod +x /bin/convert.sh
+WORKDIR /res
+CMD ["sh", "/bin/convert.sh"]

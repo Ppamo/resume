@@ -77,7 +77,7 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 
 - **Junio 2022 - Marzo 2023 - Ingeniero de Software Externo - Walmart Chile**
   - Descripción:
-    - Participé en el diseño y desarrollo de un conjunto de microservicios desarrollados principalmente en Golang, desplegados usando mecanismos propietarios y orquestados en Kubernetes.   El trabajo también implicó integración con distintas tecnologías, por ejemplo Microsoft SQL Server, Redis o Kafka, y asegurarnos que cada microservicios cumplía con los estándares del modelo de calidad de software que Walmart impulsa.
+    - Participé en el diseño y desarrollo de un conjunto de microservicios escritos principalmente en Golang, desplegados usando mecanismos propietarios y orquestados en Kubernetes.   El trabajo también implicó integración con distintas tecnologías, por ejemplo Microsoft SQL Server, Redis o Kafka, y asegurarnos que cada microservicios cumplía con los estándares del modelo de calidad de software que Walmart impulsa.
     - Tareas:
       - Desarrollo de un cronjob que mueve los archivos desde el DPC al manejador dr NCR
       - Reescritura del suscriptor e integración con Microsoft SQL Server

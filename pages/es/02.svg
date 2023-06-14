@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="417"
-     inkscape:cy="407"
+     inkscape:cx="412.5"
+     inkscape:cy="247"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -162,7 +162,7 @@
       </g>
     </g>
     <g
-       id="g1581">
+       id="g1442">
       <g
          id="g1522"
          transform="translate(-0.55837298,37.394461)">
@@ -199,7 +199,7 @@
              id="flowPara4111-8-2-7-3-2-2-6-5">BellTech S.A.</flowPara></flowRoot>
       </g>
       <g
-         id="g1558">
+         id="g1419">
         <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-58-1"
@@ -234,7 +234,7 @@
            xml:space="preserve"
            id="flowRoot4105-1-58-6-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,23.939095,123.41658)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,23.939095,118.65405)"><flowRegion
              id="flowRegion4107-1-4-5-49"
              style="font-size:16px"><rect
                id="rect4109-4-1-3-0"
@@ -248,7 +248,7 @@
       </g>
     </g>
     <g
-       id="g1658">
+       id="g1372">
       <g
          id="g984"
          transform="translate(0.73461723,32.808332)">
@@ -287,7 +287,7 @@
              id="flowPara974">Chile SpA</flowPara></flowRoot>
       </g>
       <g
-         id="g1633">
+         id="g1347">
         <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-58-2"
@@ -322,7 +322,7 @@
            xml:space="preserve"
            id="flowRoot4105-1-58-6-4-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,25.358018,21.865559)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,25.358018,16.573889)"><flowRegion
              id="flowRegion4107-1-4-5-9"
              style="font-size:16px"><rect
                id="rect4109-4-1-3-7-1"
@@ -338,10 +338,10 @@
       </g>
     </g>
     <g
-       id="g1657"
-       transform="translate(0.97390513,-214.94966)">
+       id="g1296">
       <g
-         id="g1586">
+         id="g1586"
+         transform="translate(0.97390513,-214.94966)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -377,12 +377,12 @@
              id="flowPara1497">de Desarrollo Tecnológico </flowPara></flowRoot>
       </g>
       <g
-         id="g1632">
+         id="g1271">
         <flowRoot
            xml:space="preserve"
            id="flowRoot4105-1-58-1-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.323391,151.1599)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,25.297296,-63.78976)"><flowRegion
              id="flowRegion4107-1-4-0"
              style="font-size:16px"><rect
                id="rect4109-4-1-4"
@@ -397,7 +397,7 @@
            xml:space="preserve"
            id="flowRoot4105-1-5-7-9-04-8-5-9-5"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.326919,145.65217)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,25.300824,-69.29749)"><flowRegion
              id="flowRegion4107-1-2-8-9-3-1-1-4-5"
              style="font-size:16px"><rect
                id="rect4109-4-3-7-1-6-9-6-4-5"
@@ -412,7 +412,7 @@
            xml:space="preserve"
            id="flowRoot4105-1-58-6-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.26458333,0,0,0.26458333,24.497468,166.43655)"><flowRegion
+           transform="matrix(0.26458333,0,0,0.26458333,25.471373,-53.275613)"><flowRegion
              id="flowRegion4107-1-4-5-0"
              style="font-size:16px"><rect
                id="rect4109-4-1-3-2"

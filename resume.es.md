@@ -15,6 +15,9 @@
 
 Me apasiona el diseño e implementación de proyectos tecnológicos, especialmente en la Web, intentando generar productos y servicios innovadores útiles y amigables
 
+Ingeniero en computación con más de 20 años de experiencia y sólidos conocimientos en desarrollo de software en la industria bancaria, retail y tecnología en empresas como IBM, Yapo y Walmart. Altas competencias en el desarrollo de Servicios orquestados sobre distintas plataformas basadas en Kubernetes. Cuento con un liderazgo efectivo y facilitador integrando el trabajo colaborativo y logro de objetivos, resolución asertiva de problemas, gestión de cambio, capacitación permanente, productividad y mejora continua. Inglés intermedio B2.
+
+
 ## Educación:
 
 - 2022 - Diplomado en Redteam - Universidad de Santiago de Chile
@@ -44,7 +47,7 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Design Thinking
 - 2011 - Magister en Innovación Tecnológica y Emprendimiento - Universidad Técnica Federico Santa María
   - Descripción:
-    - Su Objetivo es entregar conceptos y herramientas prácticas, orientados a motivar la conducta emprendedora y aplicarla a la creación de empresas con alto grado de innovación tecnológica en productos y servicios para mercados globales.
+    - Su objetivo es entregar conceptos y herramientas prácticas, orientados a motivar la conducta emprendedora y aplicarla a la creación de empresas con alto grado de innovación tecnológica en productos y servicios para mercados globales.
   - Tags:
     - Gestión de la Innovación
     - Emprendimiento
@@ -80,10 +83,10 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Participé en el diseño y desarrollo de un conjunto de microservicios escritos principalmente en Golang, desplegados usando mecanismos propietarios y orquestados en Kubernetes.   El trabajo también implicó integración con distintas tecnologías, por ejemplo Microsoft SQL Server, Redis o Kafka, y asegurarnos que cada microservicios cumplía con los estándares del modelo de calidad de software que Walmart impulsa.
   - Descripción no técnica:
     - Participé en el diseño y desarrollo de un servicio que permite el cálculo de valor total de un carro de compras, desplegado en la Nube de Walmart, y que para realizar el cálculo consume servicios de terceros que debían ser integrados a la solución.
-    - Para la solución creamos servicios escritos en Golang y NodeJS siguiendo el modelo de productos de software que Walmart Chile diseñó.
-    - El trabajo también implicó integración con distintos servicios desplegados en Azure.
-    - Tecnologías utilizadas: Golang, Kubertes, Microsoft SQL Server, Redis, Kafka.
-
+    - Para la solución creamos servicios escritos siguiendo el modelo de productos de software que Walmart Chile diseñó y que buscaba asegurar que las piezas desplegadas cumplieran con un estándar de observabilidad y resiliencia.
+    - El trabajo también implicó integración con distintas tecnologías desplegadas en Azure.
+  - Principales logros:
+    - Completamos el desarrollo de una plataforma que permite el cálculo del total a pagar en línea.
   - Tareas:
     - Desarrollo de un cronjob que mueve los archivos desde el DPC al manejador dr NCR
     - Reescritura del suscriptor e integración con Microsoft SQL Server
@@ -96,9 +99,11 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Participo en múltiples proyectos para IBM, ejecutándose cada uno en distintos clientes, muchos de ellos bancos.   Todos los proyectos se desarrollaron para la Nube, y compartían una arquitectura similar, un cliente web o mobile que consumía apis desplegadas en API Connect que a su vez componían o agregaban los resultados de distintos microservicios orquestados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente, calcular volumetría y realizar ajustes de rendimiento.   También diseñé e implementé flujos de desarrollo para el equipo y para los clientes, y herramientas para automatizar algunos de estos procesos.
   - Descripción no técnica:
     - Participo en múltiples proyectos para IBM, ejecutándose cada uno en distintos clientes, muchos de ellos bancos.
-    - Todos los proyectos se desarrollaron para la Nube, y compartían una arquitectura similar partiendo con un cliente web o mobile que consumía Apis desplegadas en API Connect que a su vez componían o agregaban los resultados de distintos microservicios.
-    - No sólo me tocó desarrollar software, sino que en algunas ocasiones administrar servidores y clusters en dependencias del cliente, realizar análisis volumétricos a los servicios y realizar ajustes de rendimiento a los servidores y servicios.
-    - También diseñé e implementé flujos de trabajo para el equipo y herramientas para automatizar algunas de estas tareas.
+    - Todos los proyectos se desarrollaron para la Nube, y compartían una arquitectura similar partiendo con un cliente web o mobile que consumía Apis que a su vez componían o agregaban los resultados de distintos microservicios.
+    - Adicionalmente administré servidores y clusters en dependencias del cliente, realizando análisis volumétricos a los servicios y ajustes de rendimiento a los servidores y servicios.
+    - Diseñé e implementé flujos de trabajo para el equipo y herramientas para automatizar algunas de estas tareas.
+  - Principales logros:
+    - Recibí el reconocimiento “IBM Excellence Award” en septiembre de 2020 por mi participación en un proyecto de alta visibilidad para la empresa, y un reconocimiento técnico por mi trabajo en el diseño,  desarrollo de servicios y la integración de servicios de construcción automática utilizando OpenShift.
   - Proyectos:
     - Noviembre 2017 - Febrero 2018 - Banco Itau
       - Tareas
@@ -172,15 +177,17 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 - **Marzo 2015 - Diciembre 2016 - Evaluador de proyectos CORFO - Corporación de Desarrollo Tecnológico Bienes de Capital**
   - Descripción:
     - Evalúo proyectos que participan en los distintos concursos de innovación de CORFO, calificando su mérito técnico, financiero y comercial, para determinar su viabilidad y apego a las bases del concurso
+  - Descripción no técnica:
+    - Realizo evaluación técnica de proyectos que participan en los distintos concursos de innovación de CORFO, calificando su mérito técnico, financiero y comercial, para determinar su viabilidad y apego a las bases del concurso.
   - Tags:
     - Evaluación de proyectos
 - **Agosto 2013 - Diciembre 2016 - Ingeniero de Software - Schibsted Chile SpA**
   - Descripción:
     - Schibsted es un grupo internacional de medios de origen Noruego, en Chile tienen el sitio de clasificados Yapo.cl.   Me dediqué al desarrollo e integración de nuevas características al sitio y a mejoras en los procesos internos de desarrollo.   El núcleo del sitio está escrito principalmente en C y PHP, y se está pasando a un modelo de microservicios escritos principalmente en Golang con interfaz JSON.   El modelo de trabajo era en equipos multidisciplinarios y autogestionados siguiendo algunos aspectos de Scrum, como las reuniones diarias, desarrollo iterativo y retroalimentación, además usamos Kanban para enfocar, visualizar y comunicar los avances.   Utilizamos un proceso de paso a producción que incluye QA manual en ambientes de Desarrollo y Staging, e integración continua utilizando Jenkins integrado a Git y Docker
   - Descripción no técnica:
-    - Schibsted es un grupo internacional de medios de origen Noruego, en Chile tienen el sitio de clasificados Yapo.cl.
-    - Me dediqué al desarrollo e integración de nuevas características al sitio y a mejoras en los procesos internos de desarrollo.
-    - El modelo de trabajo era en equipos multidisciplinarios y autogestionados siguiendo algunos aspectos de Scrum, además usamos Kanban para enfocar, visualizar y comunicar los avances.
+    - Me dediqué al desarrollo e integración de nuevas características al sitio y a mejoras en los procesos internos de desarrollo con equipos multidisciplinarios y autogestionados siguiendo algunos aspectos de Scrum.
+  - Principales logros:
+    - Coordiné el diseño del flujo de trabajo del equipo y su integración con otras áreas de la organización.   Además completamos la integración de una API desarrollada por un equipo de otro país con nuestro backend, en un periodo de tiempo acotado, y que por compromisos de la empresa no permitía retrasos ni errores.
   - Tasks:
     - Coordinación en definir el flujo de trabajo y coordinación con el equipo
     - Diseño y desarrollo de software
@@ -227,9 +234,11 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Scoreboard
 - **Mayo 2011 - Octubre 2011 - Lider Técnico - Idontek**
   - Descripción:
-    - Co-fundador de éste Startup, donde diseñe y configuré una plataforma electrónica para la administración y generación de proyectos usando herramientas de código abierto, tales como SugarCRM, SVN, Redmine.   El núcleo del servicio estaba escrito en .NET.   El emprendimiento era parte del proyecto BizSpark de Microsoft
+    - Co-fundador de éste Startup, donde diseñé y configuré una plataforma electrónica para la administración y generación de proyectos usando herramientas de código abierto, tales como SugarCRM, SVN, Redmine.   El núcleo del servicio estaba escrito en .NET.   El emprendimiento era parte del proyecto BizSpark de Microsoft
   - Descripción no técnica:
-    - Co-fundador de éste Startup, donde diseñe y configuré una plataforma electrónica para la administración y generación de proyectos usando herramientas de código abierto, tales como SugarCRM, SVN, Redmine.   El emprendimiento era parte del proyecto BizSpark de Microsoft
+    - Trabajé como Ingeniero Externo, realizando proyectos de desarrollo de software y mejora de procesos de desarrollo en distintos departamentos dentro de la empresa.
+    - La gran parte de los proyectos implicaban la generación de proveedores de datos para conectar la interfaz de la máquina de autoservicios con los servicios backends de los clientes.
+    - Además diseñé e implementé la plataforma de Integración Continua en el área de servicios profesionales utilizando tecnologías Microsoft.
   - Tareas:
     - Diseño de plataforma electrónica para la administración y generación de proyectos
   - Tags:
@@ -260,12 +269,8 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 		- El año 2012 la compañía fue adquirida por la empresa noruega Mercatus, por lo que migramos los servicios de la oficina desde Linux a Microsoft, manteniendo el uso de VMWare y ESXi.   Durante ésta etapa desarrollamos proyectos WEB utilizando el framework .Net 3.5 y 4.0 junto a SQL Server 2005 y 2008, también Reporting Services y DotNetNuke.   Además participé en el diseño e implementación de buenas prácticas y servicios de mejora contínua para el equipo, utilizando Scrum e Integración Contínua durante el proceso de desarrollo
 		- El año 2010 dejo el equipo, pero me mantengo trabajando como freelance realizando mantención a algunos de los sistemas desarrollados anteriormente e implementando nuevas funcionalidades utilizando Microsoft SQL Server 2005, 2008 y Reporting Services
   - Descripción no técnica:
-    - Me desempeñé como desarrollador de software y administrador de sistemas.
+    - Me desempeñé como desarrollador de software y administrador de sistemas en un entorno Linux, trabajando con el Framework .Net.
     - En 2012 la empresa fue adquirida por una empresa noruega Golden Partner de Microsoft, por lo que migramos todos nuestros servidores a tecnología Microsoft.
-
-    - Comencé a trabajar como Desarrollador de software utilizando tecnología Microsoft y administrando una red basada en Linux.   Uno de los proyectos que desarrollamos durante esta etapa consistió en un framework web de desarrollo rápido (RAD), escrito principalmente en Javascript, utilizando ASP.Net para acceder a la capa de persistencia implementada en SQL Server 2005.   Utilizando éste framework desarrollamos proyectos para empresas salmoneras de la zona.   En relación a la administración de redes configuré y administré distintos servicios necesarios para el funcionamiento de la oficina utilizando servidores virtualizados con VMWare y RedHAT
-		- El año 2012 la compañía fue adquirida por la empresa noruega Mercatus, por lo que migramos los servicios de la oficina desde Linux a Microsoft, manteniendo el uso de VMWare y ESXi.   Durante ésta etapa desarrollamos proyectos WEB utilizando el framework .Net 3.5 y 4.0 junto a SQL Server 2005 y 2008, también Reporting Services y DotNetNuke.   Además participé en el diseño e implementación de buenas prácticas y servicios de mejora contínua para el equipo, utilizando Scrum e Integración Contínua durante el proceso de desarrollo
-		- El año 2010 dejo el equipo, pero me mantengo trabajando como freelance realizando mantención a algunos de los sistemas desarrollados anteriormente e implementando nuevas funcionalidades utilizando Microsoft SQL Server 2005, 2008 y Reporting Services
   - Tareas:
     - Desarrollo y mantención de software
 		- Administración de redes
@@ -299,7 +304,8 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 		- Javascript
 - **Agosto 2004 - Enero 2008 - Profesor - Universidad Austral de Chile**
   - Descripción:
-    - Profesor para el ramo 'Seminario de Investigación Tecnológica' que se dictaba cada segundo semestre, en la Carrera de Ingeniería en Computación, en el Campus Puerto Montt de la Universidad Austral.   Durante el cual realizamos investigación en el área de robótica, creando nuestro propio robot utilizando partes de PCs y trabajando en entorno Linux, donde diseñamos una arquitectura abierta, creamos aplicaciones para el control del robot y drivers para controlar las piezas de hardware.   A través del tiempo creamos nuevas versiones de la plataforma, diseñando un framework para el desarrollo de proyectos que requieran de integración de hardware con Linux llamado Monobotics, el cual estaba basado en Mono
+    - Profesor para el ramo 'Seminario de Investigación Tecnológica' que se dictaba cada segundo semestre, en la Carrera de Ingeniería en Computación, en el Campus Puerto Montt de la Universidad Austral.   Durante el cual realizamos investigación en el área de robótica, creando nuestro propio robot utilizando partes de PCs y trabajando en entorno Linux, donde diseñamos una arquitectura abierta, creamos aplicaciones para el control del robot y drivers para controlar las piezas de hardware.   A través del tiempo creamos nuevas versiones de la plataforma, diseñando un framework para el desarrollo de proyectos que requieran de integración de hardware con Linux llamado Monobotics, el cual estaba basado en Mono.
+    - Ramo 'Seminario de Investigación Tecnológica'  en la Carrera de Ingeniería en Computación, en el Campus Puerto Montt de la Universidad Austral.   Realizando investigación en el área de robótica, creando nuestro propio robot utilizando partes de PCs y trabajando en entorno Linux, donde diseñamos una arquitectura abierta, creamos aplicaciones para el control del robot y drivers para controlar las piezas de hardware.
   - Tareas:
     - Investigación
     - Desarrollo de Software

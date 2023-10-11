@@ -78,16 +78,27 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 - **Junio 2022 - Marzo 2023 - Ingeniero de Software Externo - Walmart Chile**
   - Descripción:
     - Participé en el diseño y desarrollo de un conjunto de microservicios escritos principalmente en Golang, desplegados usando mecanismos propietarios y orquestados en Kubernetes.   El trabajo también implicó integración con distintas tecnologías, por ejemplo Microsoft SQL Server, Redis o Kafka, y asegurarnos que cada microservicios cumplía con los estándares del modelo de calidad de software que Walmart impulsa.
-    - Tareas:
-      - Desarrollo de un cronjob que mueve los archivos desde el DPC al manejador dr NCR
-      - Reescritura del suscriptor e integración con Microsoft SQL Server
-      - POC de Integración servicio Java con Redis Cluster
-      - Conexión de servicios con Microsoft SQL Server
-      - Contenerización de las aplicaciones de NCR
-      - Configuración de cluster local de Kubernetes de pruebas
+  - Descripción no técnica:
+    - Participé en el diseño y desarrollo de un servicio que permite el cálculo de valor total de un carro de compras, desplegado en la Nube de Walmart, y que para realizar el cálculo consume servicios de terceros que debían ser integrados a la solución.
+    - Para la solución creamos servicios escritos en Golang y NodeJS siguiendo el modelo de productos de software que Walmart Chile diseñó.
+    - El trabajo también implicó integración con distintos servicios desplegados en Azure.
+    - Tecnologías utilizadas: Golang, Kubertes, Microsoft SQL Server, Redis, Kafka.
+
+  - Tareas:
+    - Desarrollo de un cronjob que mueve los archivos desde el DPC al manejador dr NCR
+    - Reescritura del suscriptor e integración con Microsoft SQL Server
+    - POC de Integración servicio Java con Redis Cluster
+    - Conexión de servicios con Microsoft SQL Server
+    - Contenerización de las aplicaciones de NCR
+    - Configuración de cluster local de Kubernetes de pruebas
 - **Noviembre 2017 - Febrero 2022 - Ingeniero de Software - IBM**
   - Descripción:
     - Participo en múltiples proyectos para IBM, ejecutándose cada uno en distintos clientes, muchos de ellos bancos.   Todos los proyectos se desarrollaron para la Nube, y compartían una arquitectura similar, un cliente web o mobile que consumía apis desplegadas en API Connect que a su vez componían o agregaban los resultados de distintos microservicios orquestados en Kubernetes.   No sólo me tocó desarrollar software, si no que en algunas ocasiones administrar servidores y clusters en dependencias del cliente, calcular volumetría y realizar ajustes de rendimiento.   También diseñé e implementé flujos de desarrollo para el equipo y para los clientes, y herramientas para automatizar algunos de estos procesos.
+  - Descripción no técnica:
+    - Participo en múltiples proyectos para IBM, ejecutándose cada uno en distintos clientes, muchos de ellos bancos.
+    - Todos los proyectos se desarrollaron para la Nube, y compartían una arquitectura similar partiendo con un cliente web o mobile que consumía Apis desplegadas en API Connect que a su vez componían o agregaban los resultados de distintos microservicios.
+    - No sólo me tocó desarrollar software, sino que en algunas ocasiones administrar servidores y clusters en dependencias del cliente, realizar análisis volumétricos a los servicios y realizar ajustes de rendimiento a los servidores y servicios.
+    - También diseñé e implementé flujos de trabajo para el equipo y herramientas para automatizar algunas de estas tareas.
   - Proyectos:
     - Noviembre 2017 - Febrero 2018 - Banco Itau
       - Tareas
@@ -166,7 +177,12 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 - **Agosto 2013 - Diciembre 2016 - Ingeniero de Software - Schibsted Chile SpA**
   - Descripción:
     - Schibsted es un grupo internacional de medios de origen Noruego, en Chile tienen el sitio de clasificados Yapo.cl.   Me dediqué al desarrollo e integración de nuevas características al sitio y a mejoras en los procesos internos de desarrollo.   El núcleo del sitio está escrito principalmente en C y PHP, y se está pasando a un modelo de microservicios escritos principalmente en Golang con interfaz JSON.   El modelo de trabajo era en equipos multidisciplinarios y autogestionados siguiendo algunos aspectos de Scrum, como las reuniones diarias, desarrollo iterativo y retroalimentación, además usamos Kanban para enfocar, visualizar y comunicar los avances.   Utilizamos un proceso de paso a producción que incluye QA manual en ambientes de Desarrollo y Staging, e integración continua utilizando Jenkins integrado a Git y Docker
+  - Descripción no técnica:
+    - Schibsted es un grupo internacional de medios de origen Noruego, en Chile tienen el sitio de clasificados Yapo.cl.
+    - Me dediqué al desarrollo e integración de nuevas características al sitio y a mejoras en los procesos internos de desarrollo.
+    - El modelo de trabajo era en equipos multidisciplinarios y autogestionados siguiendo algunos aspectos de Scrum, además usamos Kanban para enfocar, visualizar y comunicar los avances.
   - Tasks:
+    - Coordinación en definir el flujo de trabajo y coordinación con el equipo
     - Diseño y desarrollo de software
     - Diseño, desarrollo e integración de API's
     - Mantención de componentes de la plataforma
@@ -198,20 +214,22 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Transbank
     - Leankit
   - Proyectos:
-      - Mock Server
-      - Créditos en web
-      - Integración de la web con OneClickPayment
-      - Mensajería en web y aplicaciones
-      - Borradores para la web mobile
-      - Correr los tests en Jenkins dockerizados
-      - Actualiza el formulario de inserción de avisos en mobile
-      - Wrapper para aplicación Firefox de la Web
-      - Integración con Transbank
-      - Diseño de Circuito de Integración Continua y Ejecución de Tests
-      - Scoreboard
+    - Mock Server
+    - Créditos en web
+    - Integración de la web con OneClickPayment
+    - Mensajería en web y aplicaciones
+    - Borradores para la web mobile
+    - Correr los tests en Jenkins dockerizados
+    - Actualiza el formulario de inserción de avisos en mobile
+    - Wrapper para aplicación Firefox de la Web
+    - Integración con Transbank
+    - Diseño de Circuito de Integración Continua y Ejecución de Tests
+    - Scoreboard
 - **Mayo 2011 - Octubre 2011 - Lider Técnico - Idontek**
   - Descripción:
     - Co-fundador de éste Startup, donde diseñe y configuré una plataforma electrónica para la administración y generación de proyectos usando herramientas de código abierto, tales como SugarCRM, SVN, Redmine.   El núcleo del servicio estaba escrito en .NET.   El emprendimiento era parte del proyecto BizSpark de Microsoft
+  - Descripción no técnica:
+    - Co-fundador de éste Startup, donde diseñe y configuré una plataforma electrónica para la administración y generación de proyectos usando herramientas de código abierto, tales como SugarCRM, SVN, Redmine.   El emprendimiento era parte del proyecto BizSpark de Microsoft
   - Tareas:
     - Diseño de plataforma electrónica para la administración y generación de proyectos
   - Tags:
@@ -226,6 +244,11 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
 - **Abril 2010 - Mayo 2013 - Ingeniero de Software Externo - Bell Technologies S.A**
   - Descripción:
     - Trabajé como Ingeniero Externo, realizando proyectos de desarrollo de software y mejora de procesos de desarrollo en distintos departamentos dentro de la empresa.   La gran parte de los proyectos se desarrollaron sobre el framework .NET, principalmente generando proveedores de datos utilizados para conectar la interfaz de la máquina de autoservicios de Belltech con los servicios de datos de los clientes.   También trabajé con el departamento de IVR, desarrollando herramientas para almacenamiento secundario de datos generados y su conversión.   Además diseñé e implementé la plataforma de Integración Continua en el área de servicios profesionales utilizando TFS, Teamcity, Redmine y Moodle
+  - Descripción no técnica:
+    - Trabajé como Ingeniero Externo, realizando proyectos de desarrollo de software y mejora de procesos de desarrollo en distintos departamentos dentro de la empresa.
+    - La gran parte de los proyectos implicaban la generación de proveedores de datos para conectar la interfaz de la máquina de autoservicios de Belltech con los servicios backends de los clientes.
+    - También trabajé con el departamento de Respuesta de Voz Interactiva (IVR), desarrollando herramientas para almacenamiento secundario de datos generados y su conversión.
+    - Además diseñé e implementé la plataforma de Integración Continua en el área de servicios profesionales utilizando tecnologías Microsoft.
   - Tareas:
     - Diseño y desarrollo de software
     - Gestión de proyectos
@@ -233,6 +256,13 @@ Me apasiona el diseño e implementación de proyectos tecnológicos, especialmen
     - Diseño e implementación de Integración Contínua
 - **Abril 2004 - Abril 2012 - Ingeniero de Software - Mercatus Chile SpA**
   - Descripción:
+    - Comencé a trabajar como Desarrollador de software utilizando tecnología Microsoft y administrando una red basada en Linux.   Uno de los proyectos que desarrollamos durante esta etapa consistió en un framework web de desarrollo rápido (RAD), escrito principalmente en Javascript, utilizando ASP.Net para acceder a la capa de persistencia implementada en SQL Server 2005.   Utilizando éste framework desarrollamos proyectos para empresas salmoneras de la zona.   En relación a la administración de redes configuré y administré distintos servicios necesarios para el funcionamiento de la oficina utilizando servidores virtualizados con VMWare y RedHAT
+		- El año 2012 la compañía fue adquirida por la empresa noruega Mercatus, por lo que migramos los servicios de la oficina desde Linux a Microsoft, manteniendo el uso de VMWare y ESXi.   Durante ésta etapa desarrollamos proyectos WEB utilizando el framework .Net 3.5 y 4.0 junto a SQL Server 2005 y 2008, también Reporting Services y DotNetNuke.   Además participé en el diseño e implementación de buenas prácticas y servicios de mejora contínua para el equipo, utilizando Scrum e Integración Contínua durante el proceso de desarrollo
+		- El año 2010 dejo el equipo, pero me mantengo trabajando como freelance realizando mantención a algunos de los sistemas desarrollados anteriormente e implementando nuevas funcionalidades utilizando Microsoft SQL Server 2005, 2008 y Reporting Services
+  - Descripción no técnica:
+    - Me desempeñé como desarrollador de software y administrador de sistemas.
+    - En 2012 la empresa fue adquirida por una empresa noruega Golden Partner de Microsoft, por lo que migramos todos nuestros servidores a tecnología Microsoft.
+
     - Comencé a trabajar como Desarrollador de software utilizando tecnología Microsoft y administrando una red basada en Linux.   Uno de los proyectos que desarrollamos durante esta etapa consistió en un framework web de desarrollo rápido (RAD), escrito principalmente en Javascript, utilizando ASP.Net para acceder a la capa de persistencia implementada en SQL Server 2005.   Utilizando éste framework desarrollamos proyectos para empresas salmoneras de la zona.   En relación a la administración de redes configuré y administré distintos servicios necesarios para el funcionamiento de la oficina utilizando servidores virtualizados con VMWare y RedHAT
 		- El año 2012 la compañía fue adquirida por la empresa noruega Mercatus, por lo que migramos los servicios de la oficina desde Linux a Microsoft, manteniendo el uso de VMWare y ESXi.   Durante ésta etapa desarrollamos proyectos WEB utilizando el framework .Net 3.5 y 4.0 junto a SQL Server 2005 y 2008, también Reporting Services y DotNetNuke.   Además participé en el diseño e implementación de buenas prácticas y servicios de mejora contínua para el equipo, utilizando Scrum e Integración Contínua durante el proceso de desarrollo
 		- El año 2010 dejo el equipo, pero me mantengo trabajando como freelance realizando mantención a algunos de los sistemas desarrollados anteriormente e implementando nuevas funcionalidades utilizando Microsoft SQL Server 2005, 2008 y Reporting Services
